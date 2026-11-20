@@ -1,188 +1,217 @@
 
-# Case 01 | Hydraulic Pressure Drops Under Load
+# Remote Equipment Support | Technical Case Study Portfolio
 
-**Mechanical Systems | Hydraulic Troubleshooting | Remote Technical Support**
+**Industrial Equipment | Remote Technical Support | Mechanical Systems | Automation | Engineering Escalation**
 
-> **Case status:** Open — Engineering Escalation  
-> **Scenario type:** Fictional technical-support simulation  
-> **Technical finding:** Root cause not established  
-> **Disposition:** Additional documentation and authorized diagnostic evidence required
+A technical portfolio demonstrating structured troubleshooting, evidence-based decision-making, customer communication, and engineering escalation for industrial equipment.
 
----
-
-## Executive Summary
-
-This case study demonstrates the structured investigation of a reported hydraulic equipment performance problem.
-
-A fictional customer reports that a hydraulic cylinder operates without a load but slows and stalls when its usual operating load is applied. The electric motor reportedly continues running, and no external hydraulic leakage is visible from the normal operating position.
-
-The problem reportedly developed after recent maintenance. A technician also reports an abnormal pressure indication, although instrument accuracy and operating conditions remain unverified.
-
-The remote-support objective is to evaluate the available information, identify possible failure mechanisms, request appropriate technical evidence, and coordinate engineering escalation.
-
-**Outcome:** The available evidence does not establish a failed component or confirmed root cause. The simulated case remains unresolved.
-
-## 1. Equipment and Operating Context
-
-The fictional equipment consists of a hydraulic power unit operating a double-acting cylinder.
-
-### Major Components
-
-| Component | General function |
-|---|---|
-| Electric motor | Provides mechanical input to the hydraulic pump |
-| Hydraulic pump | Supplies hydraulic fluid flow |
-| Reservoir and filtration | Stores and conditions hydraulic fluid |
-| Pressure-relief valve | Provides pressure-limiting protection |
-| Directional-control valve | Controls fluid routing to the actuator |
-| Double-acting cylinder | Converts hydraulic energy into linear movement |
-| Pressure gauge | Provides a local pressure indication |
-
-Equipment ratings, hydraulic circuit details, pressure settings, and manufacturer specifications have not been supplied.
-
-## 2. Customer-Reported Problem
-
-The following symptoms are fictional customer reports, not independently verified measurements:
-
-- Cylinder movement occurs without an applied load.
-- The cylinder slows and stalls under its usual operating load.
-- The electric motor reportedly continues running.
-- No external leakage is visible from the normal operating position.
-- The problem appeared after recent maintenance.
-- A technician reports an abnormal pressure indication.
-
-### Operational Impact
-
-The reported equipment cannot complete its intended loaded movement.
-
-Production impact, equipment availability, and return-to-service requirements have not been established.
-
-## 3. Evidence Assessment
-
-| Ref. | Available information | Evidence limitation |
-|---|---|---|
-| E01 | Unloaded cylinder movement reported | Loaded performance unverified |
-| E02 | Cylinder stalls under load | Actual load unverified |
-| E03 | Motor reportedly continues running | Electrical performance not measured |
-| E04 | No visible external leakage | Internal leakage not evaluated |
-| E05 | Maintenance preceded symptoms | Causation not established |
-| E06 | Abnormal pressure indication reported | Instrument accuracy unverified |
-
-The evidence establishes a reported symptom pattern but does not establish the underlying physical cause.
-
-[Review the complete evidence record](evidence.md)
-
-## 4. Technical Reasoning and Working Hypotheses
-
-The investigation considers several possible explanations.
-
-| Hypothesis | Technical consideration | Required evidence |
-|---|---|---|
-| Changed mechanical load | Actual operating demand may differ from previous conditions | Verified load and equipment operating records |
-| Unintended internal flow path | Hydraulic flow may not be reaching or maintaining the intended actuator function | Circuit drawing and authorized diagnostic results |
-| Hydraulic supply deficiency | Available supply may not meet the operating requirement | Manufacturer specifications and verified measurements |
-| Maintenance-related change | Recent work may have affected equipment configuration | Maintenance work order and configuration records |
-| Instrumentation problem | Reported pressure may not represent actual operating conditions | Instrument verification and measurement details |
-
-These hypotheses are not confirmed diagnoses and cannot be confidently ranked with the available evidence.
-
-## 5. Diagnostic Strategy and Safety Boundaries
-
-### Information Required
-
-The remote-support investigation requests:
-
-1. Equipment identification and applicable manufacturer documentation.
-2. Hydraulic circuit drawing.
-3. Recent maintenance records.
-4. Verified operating load and conditions.
-5. Recorded pressure observations and measurement locations.
-6. Instrument verification information.
-7. Results from manufacturer-approved diagnostic procedures.
-
-### Safety Requirements
-
-This case is an educational technical-support exercise, not an operational maintenance procedure.
-
-Remote review does not authorize pressure adjustments, hydraulic line disconnection, bypassing protective devices, energized electrical work, or unapproved testing.
-
-All hands-on inspection, testing, isolation, and repair require appropriately qualified personnel following manufacturer instructions and applicable site procedures.
-
-## 6. Customer Communication
-
-A professional customer-facing response was prepared to:
-
-- Acknowledge the reported operating problem.
-- Summarize the available information.
-- Request missing technical documentation.
-- Explain why a component-specific recommendation is premature.
-- Communicate appropriate safety and escalation boundaries.
-
-[Read the simulated customer response](customer-response.md)
-
-## 7. Engineering Escalation
-
-The case was referred for simulated engineering review because the available evidence was insufficient to support a specific diagnosis or corrective action.
-
-### Engineering Assistance Requested
-
-- Identify applicable manufacturer diagnostic procedures.
-- Review the recent maintenance scope.
-- Confirm required documentation and authorized measurement points.
-- Evaluate additional technical evidence when available.
-- Determine whether authorized on-site service is necessary.
-- Review findings before recommending corrective action.
-
-[Read the engineering escalation](engineering-escalation)
-
-## 8. Case Disposition
-
-**Status: Unresolved — Awaiting Additional Evidence**
-
-No physical diagnostic testing, component replacement, corrective action, or return-to-service verification was performed.
-
-### Closure Requirements
-
-The fictional case would require:
-
-- Evidence-supported diagnosis.
-- Authorized corrective action.
-- Verification against approved operating criteria.
-- Customer confirmation.
-- Updated service documentation.
-
-Until these requirements are satisfied, the case remains open.
-
-## 9. Supporting Documentation
-
-| Document | Description |
-|---|---|
-| [Case Overview](README.md) | Executive summary and technical reasoning |
-| [Supporting Evidence](evidence.md) | Customer intake and evidence assessment |
-| [Customer Response](customer-response.md) | Customer-facing information request |
-| [Engineering Escalation](engineering-escalation) | Internal technical handoff |
-
-## 10. Competencies Demonstrated
-
-This simulated case illustrates:
-
-- Mechanical and hydraulic systems reasoning
-- Remote troubleshooting coordination
-- Technical evidence assessment
-- Customer communication
-- Technical documentation
-- Engineering escalation
-- Safety-conscious decision-making
-- Structured case management
-
-These competencies are demonstrated through an educational exercise and are not presented as completed professional service work.
+**Portfolio Focus:** Remote Equipment Support and Field Service Engineering  
+**Case Studies:** 2  
+**Technical Domains:** Hydraulics, Pneumatics, Industrial Automation  
+**Portfolio Status:** Active Development
 
 ---
 
-## Portfolio Disclaimer
+## About This Portfolio
 
-This case uses fictional equipment conditions, synthetic observations, and simulated customer communication.
+This repository presents simulated technical-support scenarios involving industrial equipment operating problems.
 
-No employer, customer, military, proprietary, controlled, or classified operational information is included.
+Each case demonstrates how a remote technical support professional can:
 
-The content is intended for professional portfolio demonstration and is not a substitute for manufacturer-approved maintenance procedures or qualified on-site technical evaluation.
+- Interpret customer-reported equipment symptoms.
+- Distinguish verified information from assumptions.
+- Develop and prioritize troubleshooting hypotheses.
+- Identify missing technical evidence.
+- Communicate clearly with customers.
+- Recognize safety and authorization boundaries.
+- Prepare structured engineering escalations.
+- Document technical findings and unresolved issues.
+
+The emphasis is on sound technical reasoning, documentation quality, and safe decision-making rather than unsupported component-level diagnoses.
+
+## Professional Background
+
+My professional experience includes industrial mechanical maintenance, equipment troubleshooting, preventive maintenance, quality-related maintenance support, and technical coordination.
+
+Relevant areas of experience include:
+
+- Marine propulsion machinery and auxiliary equipment.
+- Industrial mechanical and hydraulic systems.
+- Pneumatic equipment and automated manufacturing tooling.
+- Equipment inspection, troubleshooting, and maintenance.
+- Maintenance documentation and work tracking.
+- Technical coordination across maintenance and engineering functions.
+- Industrial equipment reliability and operational support.
+
+This portfolio applies that experience to structured remote-support scenarios.
+
+## Technical Case Studies
+
+### Case 01 — Hydraulic Pressure Drops Under Load
+
+**System:** Hydraulic Power Unit and Double-Acting Cylinder  
+**Case Reference:** SIM-HYD-001  
+**Scenario:** Fictional educational simulation  
+**Technical Status:** Unresolved — Additional Evidence Required
+
+**Problem Summary**
+
+A customer reports that a hydraulic cylinder operates without load but slows or stops when load is applied. The electric motor continues running, and no external leakage has been reported.
+
+**Technical Focus**
+
+- Hydraulic pressure and flow relationships.
+- Load-related operating problems.
+- Internal leakage and fluid-flow hypotheses.
+- Hydraulic supply performance.
+- Maintenance history and technical evidence.
+- Engineering escalation when the cause remains unverified.
+
+**Case Documentation**
+
+- [Case 01 Overview](case-studies/01-hydraulic-pressure-loss/README.md)
+- [Supporting Evidence](case-studies/01-hydraulic-pressure-loss/evidence.md)
+- [Customer Technical Response](case-studies/01-hydraulic-pressure-loss/customer-response.md)
+- [Engineering Escalation](case-studies/01-hydraulic-pressure-loss/engineering-escalation)
+
+---
+
+### Case 02 — Intermittent Pneumatic Actuator Operation
+
+**System:** Automated Pneumatic Actuator  
+**Case Reference:** SIM-PNEU-002  
+**Scenario:** Fictional technical-support simulation  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Open — Engineering Review Pending
+
+**Problem Summary**
+
+An automated pneumatic actuator experiences intermittent operation, requiring a structured review of pneumatic, electrical, and control-system possibilities.
+
+**Technical Focus**
+
+- Pneumatic actuator operation.
+- Air supply and regulator performance.
+- Directional-control valves and solenoids.
+- PLC commands and feedback signals.
+- Sensor and interlock considerations.
+- Mechanical and control-system interactions.
+- Evidence requirements and engineering escalation.
+
+**Case Documentation**
+
+- [Case 02 Overview](case-studies/02-intermittent-pneumatic-actuator/README.md)
+- [Supporting Evidence](case-studies/02-intermittent-pneumatic-actuator/evidence.md)
+- [Customer Technical Response](case-studies/02-intermittent-pneumatic-actuator/customer-response.md)
+- [Engineering Escalation](case-studies/02-intermittent-pneumatic-actuator/engineering-escalation)
+
+---
+
+## Technical Support Methodology
+
+The case studies follow a consistent technical-support framework.
+
+### 1. Customer Intake
+
+Document the reported symptoms, operating conditions, equipment configuration, and relevant maintenance history.
+
+### 2. Evidence Review
+
+Separate customer observations, available technical records, assumptions, and missing information.
+
+### 3. Troubleshooting Assessment
+
+Develop technically reasonable hypotheses without prematurely identifying a failed component.
+
+### 4. Safety and Authorization Review
+
+Identify the limits of remote technical support and distinguish documentation requests from hands-on activities requiring authorized personnel.
+
+### 5. Customer Communication
+
+Provide clear technical explanations, request specific supporting information, and communicate the next steps.
+
+### 6. Engineering Escalation
+
+Prepare a structured handoff that summarizes the problem, known evidence, uncertainties, technical risks, and assistance requested.
+
+### 7. Technical Disposition
+
+Document whether the issue is resolved, remains under investigation, or requires further engineering review.
+
+A completed documentation package does not establish that the underlying equipment problem has been resolved.
+
+---
+
+## Competencies Demonstrated
+
+| Competency | Portfolio Application |
+|---|---|
+| Mechanical Troubleshooting | Hydraulic and pneumatic equipment scenarios |
+| Technical Analysis | Evidence review and troubleshooting hypotheses |
+| Industrial Automation | PLC, sensors, solenoids, and actuator interactions |
+| Customer Support | Professional technical responses |
+| Engineering Coordination | Structured escalation and technical handoffs |
+| Documentation | Organized case files and traceable reasoning |
+| Safety Awareness | Recognition of authorization and testing boundaries |
+| Problem Solving | Systematic investigation of unresolved problems |
+
+## Intended Professional Applications
+
+This portfolio supports the demonstration of transferable skills relevant to roles such as:
+
+- Remote Technical Support Specialist
+- Equipment Support Technician
+- Field Service Technician
+- Technical Service Representative
+- Industrial Maintenance Specialist
+- Equipment Reliability Support
+- Mechanical and Automation Technical Support
+
+The case studies illustrate a technical-support approach and do not represent verified employment assignments in these roles.
+
+## Portfolio Organization
+
+```text
+remote-equipment-support-portfolio-/
+|
+|-- README.md
+|
+`-- case-studies/
+    |
+    |-- 01-hydraulic-pressure-loss/
+    |   |-- README.md
+    |   |-- evidence.md
+    |   |-- customer-response.md
+    |   `-- engineering-escalation
+    |
+    `-- 02-intermittent-pneumatic-actuator/
+        |-- README.md
+        |-- evidence.md
+        |-- customer-response.md
+        `-- engineering-escalation
+```
+
+## Documentation and Safety Disclaimer
+
+All technical-support case studies in this repository are fictional educational simulations unless explicitly identified otherwise.
+
+The scenarios do not document actual customer engagements, verified field repairs, completed engineering reviews, or confirmed equipment failures.
+
+Technical hypotheses are not verified diagnoses.
+
+The documentation does not authorize equipment adjustment, pressure-system intervention, electrical testing, control-system overrides, or return-to-service decisions.
+
+Actual equipment testing, troubleshooting, and corrective work must be performed by appropriately qualified and authorized personnel using approved manufacturer documentation and site safety procedures.
+
+## Author
+
+**Harold Wanton**
+
+Industrial Maintenance | Mechanical Systems | Equipment Troubleshooting | Technical Support
+
+[GitHub Profile](https://github.com/hwant2)
+
+---
+
+*Portfolio maintained to demonstrate technical reasoning, professional documentation, and transferable industrial equipment support skills.*
