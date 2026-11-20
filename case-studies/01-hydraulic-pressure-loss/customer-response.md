@@ -1,11 +1,13 @@
 
-# Case 01 | Customer Technical Support Communication
+# Case 02 | Customer Technical Support Communication
 
-**Case Reference:** SIM-HYD-001  
-**Subject:** Hydraulic Cylinder Stalls Under Load — Additional Information Required  
-**Case Status:** Open — Awaiting Customer Information  
+**Case Reference:** SIM-PNEU-002  
+**System:** Automated Pneumatic Actuator  
+**Documentation Status:** Complete — Simulated Customer Response Prepared  
+**Technical Case Status:** Open — Awaiting Customer Information and Engineering Review  
 **Communication Type:** Simulated Customer Support Email  
-**Scenario:** Fictional Educational Exercise
+**Scenario Type:** Fictional Educational Simulation  
+**Root Cause:** Not Established
 
 [← Return to Case Overview](README.md)
 
@@ -13,16 +15,19 @@
 
 ## 1. Communication Objective
 
-This document demonstrates a professional customer-support response to a reported hydraulic equipment performance problem.
+This document demonstrates a professional remote technical-support response to a reported intermittent pneumatic actuator problem.
 
 The communication is designed to:
 
-- Acknowledge the reported operating problem.
-- Confirm the customer's description of the symptoms.
-- Request the information needed for technical evaluation.
-- Avoid unsupported equipment diagnoses.
-- Explain safety and escalation requirements.
-- Establish clear next steps.
+- Acknowledge the customer's operational concern.
+- Confirm the reported equipment symptoms.
+- Request the technical information necessary for evaluation.
+- Distinguish reported observations from verified findings.
+- Establish appropriate safety boundaries.
+- Explain the engineering escalation process.
+- Define clear next steps for technical review.
+
+**Documentation outcome:** A simulated customer response and information request have been prepared.
 
 No actual customer communication occurred.
 
@@ -30,65 +35,79 @@ No actual customer communication occurred.
 
 ## 2. Simulated Customer Email
 
-**Subject: Technical Support Follow-Up — Hydraulic Cylinder Performance Under Load**
+**Subject: Technical Support Follow-Up — Intermittent Pneumatic Actuator Operation**
 
 Hello,
 
-Thank you for contacting technical support regarding the hydraulic cylinder performance issue.
+Thank you for contacting technical support regarding the intermittent operation of your pneumatic actuator.
 
-Based on the information provided, we understand that the cylinder operates without a load but slows and stops when its usual operating load is applied.
+Based on the information provided, we understand that the double-acting pneumatic cylinder occasionally fails to complete its commanded extension during the automated production sequence.
 
-You also reported that the electric motor continues running, no external hydraulic leakage is visible from the normal operating position, and the problem appeared after recent maintenance.
+You reported that the actuator operates normally during some cycles but moves slowly or stops short during others.
 
-We understand that this condition may prevent the equipment from completing its intended operation.
+You also indicated that the problem appears more frequently during periods of increased production activity and that an operator has noticed occasional changes in the local air-pressure indication.
 
-At this stage, the available information does not establish a specific component failure or root cause.
+We recognize that this condition may interrupt the automated manufacturing process and affect equipment availability.
+
+At this stage, the available information does not establish whether the problem originates from the compressed-air supply, directional-control valve, actuator assembly, electrical controls, position feedback, or another condition.
 
 To support an accurate technical assessment, we would appreciate your assistance with the following information.
 
 ### Equipment Identification
 
 1. Equipment manufacturer, model, and serial number.
-2. Available hydraulic circuit drawing.
-3. Applicable equipment operating and maintenance manuals.
+2. Pneumatic circuit drawing.
+3. Applicable electrical and control-system drawings.
+4. Manufacturer operating and maintenance documentation.
 
 ### Operating Conditions
 
-4. Description of the operation being performed when the problem occurs.
-5. Whether the applied load or operating conditions have changed.
-6. Whether the problem affects other hydraulic functions.
-7. Whether the symptom occurs consistently or intermittently.
+5. Description of the production sequence when the problem occurs.
+6. Whether the issue occurs during extension, retraction, or both.
+7. Whether the symptom is associated with a specific production mode or operating condition.
+8. Whether other pneumatic devices experience similar symptoms.
+9. Any existing records showing the frequency of abnormal cycles.
+
+### Compressed-Air System
+
+10. Available air-pressure records, including measurement locations and operating conditions.
+11. Any documented compressed-air supply alarms.
+12. Information concerning other equipment operating from the same air supply.
+13. Available maintenance records for the air preparation assembly.
+
+### Electrical and Control System
+
+14. Existing PLC alarm and event histories.
+15. Available actuator command and position-feedback records.
+16. Any documented sensor, valve-control, or communication faults.
+17. Records of recent controller or equipment configuration changes.
 
 ### Maintenance History
 
-8. Description of maintenance completed before the problem appeared.
-9. Copies of applicable maintenance work orders.
-10. Identification of any replaced components or documented configuration changes.
-
-### Instrumentation and Technical Records
-
-11. Available pressure observations, including measurement location and operating conditions.
-12. Information concerning the reported abnormal pressure indication.
-13. Instrument verification or calibration records, where available.
-14. Existing equipment alarms, operating logs, or technician observations.
+18. Description of maintenance completed before the problem was observed.
+19. Identification of recently replaced components.
+20. Copies of applicable maintenance work orders.
+21. Available records confirming normal operation after maintenance.
 
 Please identify any information that is unavailable rather than estimating or assuming values.
 
 ### Safety and Equipment Status
 
-If the equipment cannot operate safely or as intended, please keep it out of service in accordance with your site's established procedures.
+If the equipment cannot operate safely or as intended, please follow your site's established procedures for restricting operation and obtaining a qualified safety assessment.
 
-This remote review does not authorize hydraulic pressure adjustments, line disconnection, bypassing protective devices, energized electrical work, or unapproved diagnostic testing.
+This remote review does not authorize pressure adjustments, disconnection of compressed-air lines, bypassing protective devices, forcing PLC outputs, overriding safety logic, or performing unapproved diagnostic testing.
 
-Any hands-on investigation must be completed by appropriately qualified personnel following manufacturer instructions and applicable site procedures.
+Any hands-on inspection, testing, isolation, or corrective action must be completed by appropriately qualified personnel following manufacturer instructions and applicable site procedures.
 
 ### Next Steps
 
-Once the available documentation has been received, the technical-support team can review the information and coordinate additional engineering evaluation where necessary.
+Once the available technical information has been received, the support team can review the documentation and coordinate engineering evaluation as necessary.
 
-If further testing or on-site service is required, the applicable manufacturer-approved procedures and site authorization requirements must be established before work proceeds.
+The review will focus on establishing whether reliable evidence supports a pneumatic, mechanical, electrical, or control-system explanation.
 
-We will maintain the case as open while the required technical information is being gathered.
+If additional testing or on-site technical assistance is required, the applicable manufacturer-approved procedures and site authorization requirements must be established before work proceeds.
+
+The case will remain open while the required information is being gathered.
 
 Thank you for your cooperation.
 
@@ -96,80 +115,117 @@ Best regards,
 
 **Technical Support Team**  
 Simulated Industrial Equipment Support  
-Case Reference: SIM-HYD-001
+Case Reference: SIM-PNEU-002
 
 ---
 
 ## 3. Internal Communication Assessment
 
-The simulated customer response demonstrates the following communication principles.
+The simulated response demonstrates the following technical-support communication principles.
 
 | Communication Element | Purpose |
 |---|---|
-| Problem acknowledgment | Confirms the customer's reported concern |
-| Symptom summary | Establishes a shared understanding |
+| Customer acknowledgment | Recognizes the reported equipment concern |
+| Symptom confirmation | Establishes a shared understanding |
 | Equipment identification | Supports accurate technical review |
-| Operating-condition questions | Clarifies when the problem occurs |
+| Operating-condition questions | Helps characterize intermittent behavior |
+| Pneumatic-system information | Supports evaluation of air-supply conditions |
+| PLC and electrical records | Supports evaluation of commands and feedback |
 | Maintenance history | Identifies possible configuration changes |
-| Instrumentation records | Supports evaluation of reported measurements |
 | Safety boundaries | Prevents unauthorized troubleshooting |
-| Engineering escalation | Provides a pathway for further technical review |
+| Engineering escalation | Establishes a pathway for specialist review |
+
+The communication requests existing records and qualified technical findings rather than directing unauthorized field troubleshooting.
+
+---
 
 ## 4. Customer Information Tracking
 
 | Requested Information | Current Status |
 |---|---|
 | Equipment identification | Pending |
-| Hydraulic circuit drawing | Pending |
-| Operating conditions | Pending verification |
-| Maintenance work order | Pending |
-| Instrument observations | Pending verification |
+| Pneumatic circuit drawing | Pending |
+| Electrical and control drawings | Pending |
+| Operating-condition records | Pending |
+| Air-pressure observations | Pending verification |
+| PLC alarm and event histories | Pending |
+| Actuator position records | Pending |
+| Maintenance work orders | Pending |
 | Instrument verification records | Pending |
 | Authorized diagnostic results | Not available |
 
-These statuses represent the fictional case only.
+These statuses apply only to the fictional case.
+
+No actual customer documentation has been received.
+
+The information request is complete as a portfolio deliverable, but the requested technical evidence remains unavailable.
+
+---
 
 ## 5. Follow-Up and Escalation Criteria
 
-The simulated technical-support team should review the information received for completeness and consistency.
+The simulated support team should review any subsequently received information for completeness, accuracy, and consistency.
 
 Engineering assistance is appropriate when:
 
-- Required equipment documentation is unavailable.
+- Equipment documentation is incomplete or unavailable.
 - Reported symptoms cannot be explained by verified evidence.
-- Instrument observations require specialist interpretation.
+- Pneumatic and control-system information requires specialist interpretation.
 - Manufacturer-approved diagnostic procedures must be identified.
-- Authorized on-site technical assistance may be necessary.
+- The need for qualified on-site service must be evaluated.
+- Additional technical findings require engineering review.
 
-The available information does not currently support a component-specific repair recommendation.
+The engineering handoff has been prepared as part of the completed documentation package.
+
+The available information does not currently support a component-specific corrective-action recommendation.
+
+[Review the Engineering Escalation and Technical Handoff](engineering-escalation)
+
+---
 
 ## 6. Communication Outcome
 
-**Customer response prepared:** Yes — simulated.
+| Communication Item | Status |
+|---|---|
+| Simulated customer response | Prepared |
+| Technical information request | Documented |
+| Engineering escalation handoff | Prepared |
+| Actual customer email sent | No |
+| Actual customer reply received | No |
+| Additional technical records received | No |
+| Root cause confirmed | No |
+| Corrective action recommended | No |
+| Case closed as resolved | No |
 
-**Customer reply received:** No.
+**Documentation disposition:** Complete — simulated customer communication prepared.
 
-**Technical documentation received:** No additional documentation.
+**Technical disposition:** Open — awaiting additional information and engineering review.
 
-**Confirmed diagnosis:** None.
+The fictional equipment investigation remains unresolved.
 
-**Case status:** Open — awaiting additional information.
+---
 
-The case remains unresolved and subject to engineering review.
+## 7. Related Case Documentation
 
-## 7. Related Case Documents
+All four documents have been prepared and are available in the repository.
 
-- [Case Overview](README.md)
-- [Supporting Evidence](evidence.md)
-- [Engineering Escalation](engineering-escalation)
+| Document | Purpose | Documentation Status |
+|---|---|---|
+| [Case Overview](README.md) | Executive summary and technical reasoning | Complete |
+| [Supporting Evidence](evidence.md) | Evidence register and technical assessment | Complete |
+| [Customer Communication](customer-response.md) | Simulated customer information request | Complete |
+| [Engineering Escalation](engineering-escalation) | Simulated engineering handoff | Complete |
+
+The engineering escalation link uses the existing extensionless filename.
 
 ---
 
 ## Portfolio Disclaimer
 
-This document is a fictional customer-support communication created for professional portfolio development.
+This document is a fictional customer-support communication developed for professional portfolio demonstration.
 
-It does not represent actual customer correspondence, completed field service, or verified equipment troubleshooting.
+It does not represent actual customer correspondence, completed field service, verified equipment troubleshooting, or an approved maintenance procedure.
 
-No proprietary, controlled, classified, employer-specific, or customer-specific operational information is included.
+No proprietary, employer-specific, customer-specific, controlled, military operational, or classified information is included.
+
 
