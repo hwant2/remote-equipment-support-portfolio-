@@ -1,165 +1,188 @@
-Case 01: Hydraulic Pressure Drops Under Load
 
-Case status: Draft — unresolved and escalated
-Scenario: Fictional educational exercise
-Evidence: Synthetic observations and fictional customer reports
-Technical outcome: Cause not confirmed; additional evidence required
+# Case 01 | Hydraulic Pressure Drops Under Load
 
-1. Case Overview
+**Mechanical Systems | Hydraulic Troubleshooting | Remote Technical Support**
 
-This case demonstrates a structured remote technical-support investigation involving a hydraulic cylinder that reportedly operates without a load but slows and stalls when its usual load is applied.
+> **Case status:** Open — Engineering Escalation  
+> **Scenario type:** Fictional technical-support simulation  
+> **Technical finding:** Root cause not established  
+> **Disposition:** Additional documentation and authorized diagnostic evidence required
 
-The objective is to organize customer information, evaluate possible explanations, identify missing evidence, communicate next steps, and prepare an appropriate engineering escalation.
+---
 
-This case does not document an actual customer incident, verified equipment diagnosis, or completed repair.
+## Executive Summary
 
-2. Reported Customer Complaint
+This case study demonstrates the structured investigation of a reported hydraulic equipment performance problem.
 
-The hydraulic unit starts normally, but the cylinder slows down and stops when we apply the load. The motor keeps running, and we do not see any external leaks. It seemed to work normally earlier in the week.
+A fictional customer reports that a hydraulic cylinder operates without a load but slows and stalls when its usual operating load is applied. The electric motor reportedly continues running, and no external hydraulic leakage is visible from the normal operating position.
 
-The fictional case also includes reports that:
+The problem reportedly developed after recent maintenance. A technician also reports an abnormal pressure indication, although instrument accuracy and operating conditions remain unverified.
 
-* The symptom appeared after recent maintenance.
-* A technician observed an abnormal pressure indication.
-* Instrument accuracy and measurement conditions have not been verified.
+The remote-support objective is to evaluate the available information, identify possible failure mechanisms, request appropriate technical evidence, and coordinate engineering escalation.
 
-All observations remain unverified reports within the simulated scenario.
+**Outcome:** The available evidence does not establish a failed component or confirmed root cause. The simulated case remains unresolved.
 
-3. Fictional Equipment Description
+## 1. Equipment and Operating Context
 
-The assumed hydraulic system contains:
+The fictional equipment consists of a hydraulic power unit operating a double-acting cylinder.
 
-* Electric motor and hydraulic pump
-* Hydraulic reservoir and filtration
-* Main pressure-relief valve
-* Directional-control valve
-* Double-acting hydraulic cylinder
-* Installed pressure gauge
+### Major Components
 
-The circuit drawing, equipment ratings, manufacturer specifications, and approved diagnostic instructions have not been provided.
+| Component | General function |
+|---|---|
+| Electric motor | Provides mechanical input to the hydraulic pump |
+| Hydraulic pump | Supplies hydraulic fluid flow |
+| Reservoir and filtration | Stores and conditions hydraulic fluid |
+| Pressure-relief valve | Provides pressure-limiting protection |
+| Directional-control valve | Controls fluid routing to the actuator |
+| Double-acting cylinder | Converts hydraulic energy into linear movement |
+| Pressure gauge | Provides a local pressure indication |
 
-No pressure settings or component performance limits are assumed.
+Equipment ratings, hydraulic circuit details, pressure settings, and manufacturer specifications have not been supplied.
 
-4. Technical Support Objectives
+## 2. Customer-Reported Problem
 
-1. Document the reported operating problem.
-2. Identify available evidence and missing information.
-3. Develop reasonable troubleshooting hypotheses.
-4. Separate customer reports from verified findings.
-5. Prepare a professional customer information request.
-6. Escalate unresolved technical questions.
-7. Establish appropriate closure requirements.
+The following symptoms are fictional customer reports, not independently verified measurements:
 
-5. Evidence Summary
+- Cylinder movement occurs without an applied load.
+- The cylinder slows and stalls under its usual operating load.
+- The electric motor reportedly continues running.
+- No external leakage is visible from the normal operating position.
+- The problem appeared after recent maintenance.
+- A technician reports an abnormal pressure indication.
 
-Reference	Reported observation	Limitation
-E01	Cylinder moves without load	Loaded performance remains unverified
-E02	Cylinder stalls under usual load	Actual load has not been verified
-E03	Motor continues running	Electrical performance has not been measured
-E04	No visible external leakage	Internal leakage and other leakage locations have not been evaluated
-E05	Symptom appeared after maintenance	Timing does not establish causation
-E06	Abnormal pressure indication	Instrument accuracy and test conditions are unknown
+### Operational Impact
 
-These are fictional case observations, not independently verified measurements.
+The reported equipment cannot complete its intended loaded movement.
 
-6. Working Hypotheses
+Production impact, equipment availability, and return-to-service requirements have not been established.
 
-The following possibilities require additional investigation:
+## 3. Evidence Assessment
 
-1. A change in the mechanical load or driven mechanism.
-2. An unintended hydraulic fluid-flow path.
-3. Insufficient hydraulic supply performance.
-4. A maintenance-related configuration change.
-5. An inaccurate or misleading pressure indication.
+| Ref. | Available information | Evidence limitation |
+|---|---|---|
+| E01 | Unloaded cylinder movement reported | Loaded performance unverified |
+| E02 | Cylinder stalls under load | Actual load unverified |
+| E03 | Motor reportedly continues running | Electrical performance not measured |
+| E04 | No visible external leakage | Internal leakage not evaluated |
+| E05 | Maintenance preceded symptoms | Causation not established |
+| E06 | Abnormal pressure indication reported | Instrument accuracy unverified |
 
-Available information does not support ranking these hypotheses confidently or identifying a failed component.
+The evidence establishes a reported symptom pattern but does not establish the underlying physical cause.
 
-7. Safety and Technical Boundaries
+[Review the complete evidence record](evidence.md)
 
-This educational case is not an operational maintenance procedure.
+## 4. Technical Reasoning and Working Hypotheses
 
-It does not authorize:
+The investigation considers several possible explanations.
 
-* Hydraulic pressure-setting adjustments
-* Hydraulic line disconnection
-* Bypassing protective devices or interlocks
-* Unapproved loaded testing
-* Energized electrical work
-* Speculative component replacement
+| Hypothesis | Technical consideration | Required evidence |
+|---|---|---|
+| Changed mechanical load | Actual operating demand may differ from previous conditions | Verified load and equipment operating records |
+| Unintended internal flow path | Hydraulic flow may not be reaching or maintaining the intended actuator function | Circuit drawing and authorized diagnostic results |
+| Hydraulic supply deficiency | Available supply may not meet the operating requirement | Manufacturer specifications and verified measurements |
+| Maintenance-related change | Recent work may have affected equipment configuration | Maintenance work order and configuration records |
+| Instrumentation problem | Reported pressure may not represent actual operating conditions | Instrument verification and measurement details |
 
-Any physical inspection, diagnostic testing, isolation, or corrective action must be performed by appropriately qualified personnel following manufacturer instructions and applicable site procedures.
+These hypotheses are not confirmed diagnoses and cannot be confidently ranked with the available evidence.
 
-8. Case Documentation
+## 5. Diagnostic Strategy and Safety Boundaries
 
-The case contains four primary documents:
+### Information Required
 
-Document	Purpose
-Case Overview	Problem description, hypotheses, and case status
-Supporting Evidence	Customer intake, synthetic observations, and evidence limitations
-Customer Response	Professional request for additional information
-Engineering Escalation	Internal technical handoff and engineering assistance request
+The remote-support investigation requests:
 
-All links are relative to the current case directory.
+1. Equipment identification and applicable manufacturer documentation.
+2. Hydraulic circuit drawing.
+3. Recent maintenance records.
+4. Verified operating load and conditions.
+5. Recorded pressure observations and measurement locations.
+6. Instrument verification information.
+7. Results from manufacturer-approved diagnostic procedures.
 
-9. Investigation Decision
+### Safety Requirements
 
-The current evidence does not support a component-specific diagnosis.
+This case is an educational technical-support exercise, not an operational maintenance procedure.
 
-The appropriate simulated support decision is to request additional documentation and refer the case for engineering review.
+Remote review does not authorize pressure adjustments, hydraulic line disconnection, bypassing protective devices, energized electrical work, or unapproved testing.
 
-Required information includes:
+All hands-on inspection, testing, isolation, and repair require appropriately qualified personnel following manufacturer instructions and applicable site procedures.
 
-* Equipment identification
-* Hydraulic circuit drawing
-* Applicable manufacturer documentation
-* Recent maintenance records
-* Verified load and operating conditions
-* Instrument verification
-* Results from authorized diagnostic procedures
+## 6. Customer Communication
 
-10. Current Outcome
+A professional customer-facing response was prepared to:
 
-Unresolved — engineering escalation initiated.
+- Acknowledge the reported operating problem.
+- Summarize the available information.
+- Request missing technical documentation.
+- Explain why a component-specific recommendation is premature.
+- Communicate appropriate safety and escalation boundaries.
 
-The fictional case remains open pending additional evidence.
+[Read the simulated customer response](customer-response.md)
 
-No physical diagnostic testing, component replacement, repair, or return-to-service verification has been performed.
+## 7. Engineering Escalation
 
-11. Closure Criteria
+The case was referred for simulated engineering review because the available evidence was insufficient to support a specific diagnosis or corrective action.
 
-The case may be considered technically resolved only when the fictional investigation includes:
+### Engineering Assistance Requested
 
-1. A diagnosis supported by sufficient evidence.
-2. An authorized corrective action.
-3. Verification against approved operating criteria.
-4. Documented customer confirmation.
-5. Updated service records.
+- Identify applicable manufacturer diagnostic procedures.
+- Review the recent maintenance scope.
+- Confirm required documentation and authorized measurement points.
+- Evaluate additional technical evidence when available.
+- Determine whether authorized on-site service is necessary.
+- Review findings before recommending corrective action.
 
-These conditions have not been satisfied.
+[Read the engineering escalation](engineering-escalation)
 
-12. Skills Demonstrated
+## 8. Case Disposition
 
-This educational exercise demonstrates:
+**Status: Unresolved — Awaiting Additional Evidence**
 
-* Structured technical-support documentation
-* Customer intake and communication
-* Hydraulic troubleshooting reasoning
-* Evidence evaluation
-* Separation of facts and assumptions
-* Engineering escalation
-* Safety-conscious technical decision-making
+No physical diagnostic testing, component replacement, corrective action, or return-to-service verification was performed.
 
-It does not represent completed professional service work.
+### Closure Requirements
 
-13. Portfolio Disclaimer
+The fictional case would require:
 
-All case information is fictional or synthetic.
+- Evidence-supported diagnosis.
+- Authorized corrective action.
+- Verification against approved operating criteria.
+- Customer confirmation.
+- Updated service documentation.
 
-No actual employer, customer, military, proprietary, controlled, or classified operational information is included.
+Until these requirements are satisfied, the case remains open.
 
-This material is intended to demonstrate technical reasoning and communication skills, not to provide operational maintenance instructions.
+## 9. Supporting Documentation
 
-14. Revision History
+| Document | Description |
+|---|---|
+| [Case Overview](README.md) | Executive summary and technical reasoning |
+| [Supporting Evidence](evidence.md) | Customer intake and evidence assessment |
+| [Customer Response](customer-response.md) | Customer-facing information request |
+| [Engineering Escalation](engineering-escalation) | Internal technical handoff |
 
-* Initial draft: Hydraulic pressure-loss scenario and support documentation.
-* Documentation revision: Standardized case navigation, evidence references, technical boundaries, and unresolved case status.
+## 10. Competencies Demonstrated
+
+This simulated case illustrates:
+
+- Mechanical and hydraulic systems reasoning
+- Remote troubleshooting coordination
+- Technical evidence assessment
+- Customer communication
+- Technical documentation
+- Engineering escalation
+- Safety-conscious decision-making
+- Structured case management
+
+These competencies are demonstrated through an educational exercise and are not presented as completed professional service work.
+
+---
+
+## Portfolio Disclaimer
+
+This case uses fictional equipment conditions, synthetic observations, and simulated customer communication.
+
+No employer, customer, military, proprietary, controlled, or classified operational information is included.
+
+The content is intended for professional portfolio demonstration and is not a substitute for manufacturer-approved maintenance procedures or qualified on-site technical evaluation.
