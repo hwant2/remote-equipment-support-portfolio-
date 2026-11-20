@@ -1,0 +1,63 @@
+# Engineering Escalation
+
+[Back to case overview](README.md)
+
+Fictional educational scenario using synthetic information.
+
+## Subject
+
+Hydraulic cylinder stalls under load following maintenance —
+cause unconfirmed
+
+## Case Status
+
+Open — additional technical evidence required.
+
+## Reported Condition
+
+The cylinder moves unloaded but slows and stops under the
+usual operating load.
+
+The motor reportedly continues running.
+
+## Evidence Available
+
+- Customer symptom description
+- Reported timing relative to maintenance
+- Technician-reported change in pressure behavior
+
+## Evidence Missing
+
+- Circuit drawing
+- Component specifications
+- Maintenance work order
+- Verified load and operating conditions
+- Instrument verification
+- Approved diagnostic results
+
+## Assessment
+
+The evidence does not currently support identifying a
+specific failed component.
+
+Possible investigation areas include load conditions,
+circuit configuration, hydraulic supply, and measurement
+reliability.
+
+## Actions Not Recommended
+
+- Speculative component replacement
+- Pressure-setting adjustments
+- Unapproved isolation or bypass testing
+
+## Engineering Assistance Requested
+
+1. Identify the applicable diagnostic procedure.
+2. Confirm required measurements and authorized test points.
+3. Review maintenance-related configuration questions.
+4. Review findings before a component-specific recommendation.
+
+## Closure Requirements
+
+Document the supported cause, authorized corrective action,
+verification results, and customer confirmation.
