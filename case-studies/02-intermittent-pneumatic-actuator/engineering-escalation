@@ -1,10 +1,11 @@
 
-# Case 02 | Engineering Escalation & Technical Handoff
+# Case 02 | Customer Technical Support Communication
 
 **Case Reference:** SIM-PNEU-002  
 **System:** Automated Pneumatic Actuator  
-**Escalation Type:** Pneumatic / Industrial Automation Technical Support  
-**Case Status:** Open — Engineering Review Required  
+**Documentation Status:** Complete — Simulated Customer Response Prepared  
+**Technical Case Status:** Open — Awaiting Customer Information and Engineering Review  
+**Communication Type:** Simulated Customer Support Email  
 **Scenario Type:** Fictional Educational Simulation  
 **Root Cause:** Not Established
 
@@ -12,293 +13,217 @@
 
 ---
 
-## 1. Executive Escalation Summary
+## 1. Communication Objective
 
-This simulated case concerns intermittent operation of a double-acting pneumatic actuator in an automated manufacturing station.
+This document demonstrates a professional remote technical-support response to a reported intermittent pneumatic actuator problem.
 
-The fictional customer reports that the actuator occasionally fails to complete its commanded extension. Some cycles reportedly complete normally, while others exhibit slow or incomplete movement.
+The communication is designed to:
 
-The customer also reports that the problem appears more frequently during periods of increased production activity. An operator has observed occasional changes in the local air-pressure indication.
+- Acknowledge the customer's operational concern.
+- Confirm the reported equipment symptoms.
+- Request the technical information necessary for evaluation.
+- Distinguish reported observations from verified findings.
+- Establish appropriate safety boundaries.
+- Explain the engineering escalation process.
+- Define clear next steps for technical review.
 
-No verified pressure measurements, actuator position records, PLC event histories, or manufacturer-approved diagnostic results have been supplied.
+**Documentation outcome:** A simulated customer response and information request have been prepared.
 
-**Reason for escalation:** The available evidence is insufficient to distinguish among pneumatic supply, airflow, valve, mechanical, electrical, and control-system explanations.
-
-Engineering assistance is requested to review the equipment documentation, identify applicable manufacturer-approved diagnostic procedures, and evaluate additional evidence when available.
-
-No physical troubleshooting, corrective action, or return-to-service verification has been performed.
+No actual customer communication occurred.
 
 ---
 
-## 2. Reported Operational Impact
+## 2. Simulated Customer Email
 
-| Item | Current Information |
+**Subject: Technical Support Follow-Up — Intermittent Pneumatic Actuator Operation**
+
+Hello,
+
+Thank you for contacting technical support regarding the intermittent operation of your pneumatic actuator.
+
+Based on the information provided, we understand that the double-acting pneumatic cylinder occasionally fails to complete its commanded extension during the automated production sequence.
+
+You reported that the actuator operates normally during some cycles but moves slowly or stops short during others.
+
+You also indicated that the problem appears more frequently during periods of increased production activity and that an operator has noticed occasional changes in the local air-pressure indication.
+
+We recognize that this condition may interrupt the automated manufacturing process and affect equipment availability.
+
+At this stage, the available information does not establish whether the problem originates from the compressed-air supply, directional-control valve, actuator assembly, electrical controls, position feedback, or another condition.
+
+To support an accurate technical assessment, we would appreciate your assistance with the following information.
+
+### Equipment Identification
+
+1. Equipment manufacturer, model, and serial number.
+2. Pneumatic circuit drawing.
+3. Applicable electrical and control-system drawings.
+4. Manufacturer operating and maintenance documentation.
+
+### Operating Conditions
+
+5. Description of the production sequence when the problem occurs.
+6. Whether the issue occurs during extension, retraction, or both.
+7. Whether the symptom is associated with a specific production mode or operating condition.
+8. Whether other pneumatic devices experience similar symptoms.
+9. Any existing records showing the frequency of abnormal cycles.
+
+### Compressed-Air System
+
+10. Available air-pressure records, including measurement locations and operating conditions.
+11. Any documented compressed-air supply alarms.
+12. Information concerning other equipment operating from the same air supply.
+13. Available maintenance records for the air preparation assembly.
+
+### Electrical and Control System
+
+14. Existing PLC alarm and event histories.
+15. Available actuator command and position-feedback records.
+16. Any documented sensor, valve-control, or communication faults.
+17. Records of recent controller or equipment configuration changes.
+
+### Maintenance History
+
+18. Description of maintenance completed before the problem was observed.
+19. Identification of recently replaced components.
+20. Copies of applicable maintenance work orders.
+21. Available records confirming normal operation after maintenance.
+
+Please identify any information that is unavailable rather than estimating or assuming values.
+
+### Safety and Equipment Status
+
+If the equipment cannot operate safely or as intended, please follow your site's established procedures for restricting operation and obtaining a qualified safety assessment.
+
+This remote review does not authorize pressure adjustments, disconnection of compressed-air lines, bypassing protective devices, forcing PLC outputs, overriding safety logic, or performing unapproved diagnostic testing.
+
+Any hands-on inspection, testing, isolation, or corrective action must be completed by appropriately qualified personnel following manufacturer instructions and applicable site procedures.
+
+### Next Steps
+
+Once the available technical information has been received, the support team can review the documentation and coordinate engineering evaluation as necessary.
+
+The review will focus on establishing whether reliable evidence supports a pneumatic, mechanical, electrical, or control-system explanation.
+
+If additional testing or on-site technical assistance is required, the applicable manufacturer-approved procedures and site authorization requirements must be established before work proceeds.
+
+The case will remain open while the required information is being gathered.
+
+Thank you for your cooperation.
+
+Best regards,
+
+**Technical Support Team**  
+Simulated Industrial Equipment Support  
+Case Reference: SIM-PNEU-002
+
+---
+
+## 3. Internal Communication Assessment
+
+The simulated response demonstrates the following technical-support communication principles.
+
+| Communication Element | Purpose |
 |---|---|
-| Equipment function | Intermittent actuator extension |
-| Production impact | Possible sequence interruptions |
-| Downtime | Not quantified |
-| Failure frequency | Not measured |
-| Product-quality impact | Unknown |
-| Equipment safety status | Requires site assessment |
-| Return-to-service requirement | Not provided |
-| Customer priority | Pending operational assessment |
+| Customer acknowledgment | Recognizes the reported equipment concern |
+| Symptom confirmation | Establishes a shared understanding |
+| Equipment identification | Supports accurate technical review |
+| Operating-condition questions | Helps characterize intermittent behavior |
+| Pneumatic-system information | Supports evaluation of air-supply conditions |
+| PLC and electrical records | Supports evaluation of commands and feedback |
+| Maintenance history | Identifies possible configuration changes |
+| Safety boundaries | Prevents unauthorized troubleshooting |
+| Engineering escalation | Establishes a pathway for specialist review |
 
-The reported condition may affect equipment availability, but no verified production-loss or downtime figures are available.
-
----
-
-## 3. Equipment Configuration
-
-The fictional automated manufacturing station includes:
-
-- Compressed-air supply
-- Air preparation assembly
-- Pressure regulator
-- Directional-control valve
-- Solenoid coil
-- Double-acting pneumatic cylinder
-- Actuator position sensors
-- Programmable logic controller (PLC)
-- Local pressure gauge
-
-The following technical information is unavailable:
-
-- Equipment manufacturer and model
-- Pneumatic circuit drawing
-- Electrical and control-system drawings
-- Component specifications
-- Approved operating limits
-- PLC program and diagnostic records
-- Maintenance configuration records
-
-No manufacturer-specific pressure settings, electrical ratings, PLC addresses, or component configurations are assumed.
+The communication requests existing records and qualified technical findings rather than directing unauthorized field troubleshooting.
 
 ---
 
-## 4. Evidence Register
+## 4. Customer Information Tracking
 
-| Ref. | Reported Information | Verification Limitation |
-|---|---|---|
-| P01 | Actuator sometimes completes extension | Normal performance unverified |
-| P02 | Actuator sometimes moves slowly or stops short | Position and cycle timing unmeasured |
-| P03 | Symptoms appear more often during increased production activity | Relationship not established by operating data |
-| P04 | Local pressure indication occasionally changes | Instrument accuracy and conditions unknown |
-| P05 | Automated sequence occasionally fails to complete | PLC event records unavailable |
-| P06 | No confirmed diagnostic records supplied | Technical cause undetermined |
-
-These observations are fictional and have not been independently verified.
-
-[Review the supporting evidence assessment](evidence.md)
-
----
-
-## 5. Preliminary Technical Assessment
-
-The intermittent nature of the reported problem indicates that actuator behavior is not consistent under the described operating conditions.
-
-Successful operation during some cycles does not establish that the pneumatic supply, directional-control valve, actuator, sensors, or control system function correctly during abnormal cycles.
-
-The reported association with increased production activity warrants further investigation, but no verified evidence establishes a causal relationship.
-
-Changes in the local pressure indication cannot be reliably interpreted without knowing the measurement location, instrument condition, and operating circumstances.
-
-The reported failure of the automated sequence may involve actual actuator movement, control commands, feedback behavior, or another unverified condition.
-
-**Current technical conclusion:** No failed component or root cause has been established.
-
----
-
-## 6. Working Technical Hypotheses
-
-| Hypothesis | Engineering Consideration | Evidence Required |
-|---|---|---|
-| Compressed-air supply variation | Available supply may change with operating demand | Verified pressure records and supply specifications |
-| Pneumatic airflow restriction | Restricted airflow may affect actuator movement | Pneumatic schematic and authorized diagnostic results |
-| Directional-control valve performance | Valve response may be inconsistent | Manufacturer-approved valve and control diagnostics |
-| Mechanical resistance | Actuator movement may be affected by load or alignment | Mechanical documentation and qualified inspection findings |
-| Electrical or PLC control issue | Commands may not consistently match intended operation | PLC event histories, electrical drawings, and approved findings |
-| Position-sensor issue | Feedback may not accurately represent actuator position | Sensor specifications and verified diagnostic records |
-| Pressure-indication error | Reported pressure changes may not represent actual conditions | Instrument verification and measurement details |
-
-These hypotheses remain unconfirmed.
-
-The available evidence is insufficient to rank them confidently or recommend component replacement.
-
----
-
-## 7. Intermittent-Failure Investigation Framework
-
-Engineering review should consider the relationship between the reported symptoms and documented operating conditions.
-
-Where reliable existing records are available, normal and abnormal cycles may be compared.
-
-### Proposed Evidence Comparison
-
-| Parameter | Normal Cycle | Abnormal Cycle | Current Status |
-|---|---|---|---|
-| Actuator extension | Reportedly complete | Reportedly incomplete | Unverified |
-| Cycle duration | Unknown | Unknown | No measured records |
-| Air-pressure indication | Unknown | Occasionally reported to change | Unverified |
-| PLC command state | Unknown | Unknown | Records unavailable |
-| Position feedback | Unknown | Unknown | Records unavailable |
-| Production activity | Normal activity reported | Higher activity sometimes reported | Relationship unverified |
-| Alarm history | Unknown | Unknown | Records unavailable |
-
-This framework is a proposed documentation method, not a completed diagnostic test.
-
----
-
-## 8. Remote Technical-Support Actions Documented
-
-The following activities were completed within this fictional educational exercise:
-
-1. Organized the reported customer complaint.
-2. Documented the fictional equipment configuration.
-3. Established an evidence register.
-4. Identified missing technical documentation.
-5. Developed preliminary pneumatic and control-system hypotheses.
-6. Prepared a simulated customer information request.
-7. Established safety and authorization boundaries.
-8. Prepared this engineering escalation handoff.
-
-No actual customer interaction, physical inspection, equipment testing, or corrective action occurred.
-
----
-
-## 9. Engineering Assistance Requested
-
-Engineering review is requested to:
-
-1. Identify applicable manufacturer-approved pneumatic and electrical diagnostic procedures.
-2. Confirm required pneumatic circuit and electrical documentation.
-3. Review equipment configuration and maintenance history.
-4. Evaluate existing PLC alarm and event records when available.
-5. Identify required actuator command and position-feedback information.
-6. Confirm the appropriate instrumentation verification requirements.
-7. Determine whether qualified on-site technical assistance is necessary.
-8. Evaluate subsequent authorized diagnostic results.
-9. Support an evidence-based corrective recommendation when sufficient information becomes available.
-
-The remote-support role is limited to information coordination, technical review, documentation, and authorized escalation.
-
----
-
-## 10. Safety and Technical Authorization
-
-This simulated escalation is not an operational maintenance procedure.
-
-It does not authorize:
-
-- Adjusting compressed-air pressure settings
-- Disconnecting pressurized pneumatic lines
-- Bypassing machine guards or interlocks
-- Forcing PLC outputs
-- Overriding safety logic
-- Opening energized electrical equipment
-- Performing unapproved actuator tests
-- Replacing components without adequate evidence
-- Authorizing return to service
-
-Compressed-air systems and automated machinery may present stored-energy, unexpected-motion, and electrical hazards.
-
-All hands-on inspection, testing, isolation, and corrective action must be performed by appropriately qualified personnel following manufacturer instructions and applicable site procedures.
-
----
-
-## 11. Information Required Before Further Evaluation
-
-| Required Information | Purpose | Status |
-|---|---|---|
-| Equipment identification | Establish applicable documentation | Pending |
-| Pneumatic circuit drawing | Understand pneumatic configuration | Pending |
-| Electrical drawings | Understand command and feedback relationships | Pending |
-| Manufacturer specifications | Establish approved operating criteria | Pending |
-| Maintenance work orders | Review recent changes | Pending |
-| Verified air-pressure observations | Evaluate reported supply behavior | Pending |
-| PLC alarm and event histories | Evaluate sequence behavior | Pending |
-| Actuator position records | Assess reported incomplete movement | Pending |
-| Instrument verification | Assess measurement reliability | Pending |
-| Approved diagnostic results | Support root-cause evaluation | Not available |
-
-All statuses apply only to this fictional scenario.
-
----
-
-## 12. Engineering Decision Framework
-
-The simulated engineering team should evaluate additional information before determining the appropriate next action.
-
-| Evidence Condition | Proposed Engineering Response |
+| Requested Information | Current Status |
 |---|---|
-| Equipment documentation incomplete | Request applicable manufacturer records |
-| Operating conditions unverified | Request reliable existing operating records |
-| Instrument observations inconsistent | Review instrument verification information |
-| PLC records indicate a possible control concern | Refer to qualified controls engineering |
-| Pneumatic records indicate a possible supply concern | Refer to qualified pneumatic engineering |
-| Mechanical findings indicate possible resistance | Refer to qualified mechanical engineering |
-| Evidence remains inconclusive | Maintain open status and assess need for authorized on-site support |
+| Equipment identification | Pending |
+| Pneumatic circuit drawing | Pending |
+| Electrical and control drawings | Pending |
+| Operating-condition records | Pending |
+| Air-pressure observations | Pending verification |
+| PLC alarm and event histories | Pending |
+| Actuator position records | Pending |
+| Maintenance work orders | Pending |
+| Instrument verification records | Pending |
+| Authorized diagnostic results | Not available |
 
-These are proposed review decisions, not completed engineering findings.
+These statuses apply only to the fictional case.
 
----
+No actual customer documentation has been received.
 
-## 13. Recommended Case Disposition
-
-**Disposition: Maintain Open Status — Awaiting Additional Evidence**
-
-The available information does not support a confirmed diagnosis or component-specific corrective action.
-
-The next simulated support activity is to obtain the requested technical documentation and submit it for engineering evaluation.
-
-The need for authorized on-site service should be assessed based on equipment documentation, safety requirements, operational impact, and available evidence.
+The information request is complete as a portfolio deliverable, but the requested technical evidence remains unavailable.
 
 ---
 
-## 14. Case Closure Requirements
+## 5. Follow-Up and Escalation Criteria
 
-Before the fictional case can be closed as resolved, the record must contain:
+The simulated support team should review any subsequently received information for completeness, accuracy, and consistency.
 
-1. An evidence-supported diagnosis.
-2. An authorized corrective action.
-3. Documented verification against approved operating criteria.
-4. Customer confirmation.
-5. Updated technical and service records.
+Engineering assistance is appropriate when:
 
-These requirements have not been met.
+- Equipment documentation is incomplete or unavailable.
+- Reported symptoms cannot be explained by verified evidence.
+- Pneumatic and control-system information requires specialist interpretation.
+- Manufacturer-approved diagnostic procedures must be identified.
+- The need for qualified on-site service must be evaluated.
+- Additional technical findings require engineering review.
+
+The engineering handoff has been prepared as part of the completed documentation package.
+
+The available information does not currently support a component-specific corrective-action recommendation.
+
+[Review the Engineering Escalation and Technical Handoff](engineering-escalation)
 
 ---
 
-## 15. Final Technical Disposition
+## 6. Communication Outcome
 
-| Item | Status |
+| Communication Item | Status |
 |---|---|
-| Customer complaint documented | Completed in simulation |
-| Evidence assessment | Completed in simulation |
-| Customer information request | Prepared |
-| Engineering escalation | Prepared |
+| Simulated customer response | Prepared |
+| Technical information request | Documented |
+| Engineering escalation handoff | Prepared |
+| Actual customer email sent | No |
+| Actual customer reply received | No |
+| Additional technical records received | No |
 | Root cause confirmed | No |
-| Corrective action completed | No |
-| Return-to-service verification | No |
-| Case closed | No |
+| Corrective action recommended | No |
+| Case closed as resolved | No |
 
-**Final status: Unresolved — Engineering Review Pending**
+**Documentation disposition:** Complete — simulated customer communication prepared.
+
+**Technical disposition:** Open — awaiting additional information and engineering review.
+
+The fictional equipment investigation remains unresolved.
 
 ---
 
-## 16. Supporting Case Documentation
+## 7. Related Case Documentation
 
-- [Case Overview](README.md)
-- [Supporting Evidence](evidence.md)
-- [Customer Communication](customer-response.md)
+All four documents have been prepared and are available in the repository.
+
+| Document | Purpose | Documentation Status |
+|---|---|---|
+| [Case Overview](README.md) | Executive summary and technical reasoning | Complete |
+| [Supporting Evidence](evidence.md) | Evidence register and technical assessment | Complete |
+| [Customer Communication](customer-response.md) | Simulated customer information request | Complete |
+| [Engineering Escalation](engineering-escalation) | Simulated engineering handoff | Complete |
+
+The engineering escalation link uses the existing extensionless filename.
 
 ---
 
 ## Portfolio Disclaimer
 
-This document is a fictional engineering-support handoff developed for professional portfolio demonstration.
+This document is a fictional customer-support communication developed for professional portfolio demonstration.
 
-All equipment conditions, customer observations, and technical records are simulated.
+It does not represent actual customer correspondence, completed field service, verified equipment troubleshooting, or an approved maintenance procedure.
 
-It does not represent actual professional service work, an approved maintenance procedure, or a verified equipment diagnosis.
-
-No proprietary, customer-specific, employer-specific, controlled, military operational, or classified information is included.
+No proprietary, employer-specific, customer-specific, controlled, military operational, or classified information is included.
