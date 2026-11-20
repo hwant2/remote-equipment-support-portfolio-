@@ -1,63 +1,127 @@
-# Engineering Escalation
+# Engineering Escalation: Hydraulic Pressure Loss
 
 [Back to case overview](README.md)
 
-Fictional educational scenario using synthetic information.
+Document type: Internal technical handoff
+Scenario: Fictional educational exercise
+Data source: Synthetic observations
+Case status: Open — additional evidence required
 
-## Subject
+## 1. Subject
 
 Hydraulic cylinder stalls under load following maintenance —
-cause unconfirmed
+cause unconfirmed.
 
-## Case Status
+## 2. Reason for Escalation
 
-Open — additional technical evidence required.
+Available information describes the symptom but does not
+support a component-specific diagnosis or repair recommendation.
 
-## Reported Condition
+Technical review is requested to identify the applicable
+diagnostic procedure and required evidence.
 
-The cylinder moves unloaded but slows and stops under the
-usual operating load.
+## 3. Reported Condition
 
-The motor reportedly continues running.
+The customer reports that:
 
-## Evidence Available
+- The cylinder moves without a load.
+- The cylinder slows and stops under the usual operating load.
+- The motor appears to continue running.
+- No external leakage is visible from the normal operating position.
+- The problem appeared after recent maintenance.
 
-- Customer symptom description
-- Reported timing relative to maintenance
-- Technician-reported change in pressure behavior
+These statements are reports, not independently verified findings.
 
-## Evidence Missing
+## 4. Operational Impact
 
-- Circuit drawing
+The reported operation cannot be completed under load.
+
+The following have not been established:
+
+- Extent of production disruption
+- Whether other equipment functions are affected
+- Availability of alternative equipment
+- Required return-to-service date
+
+Priority should be reviewed when this information is available.
+
+## 5. Evidence Available
+
+| Reference | Information | Limitation |
+|---|---|---|
+| E01 | Reported unloaded cylinder movement | Does not establish loaded performance |
+| E02 | Reported stalling under usual load | Load remains unverified |
+| E03 | Motor reportedly continues running | Electrical performance has not been measured |
+| E04 | No visible external leakage reported | Observation is limited to the normal operating position |
+| E05 | Maintenance preceded the symptom | Timing does not establish cause |
+| E06 | Technician reports abnormal pressure indication | Instrument and test conditions remain unverified |
+
+[Review the complete evidence record](evidence.md)
+
+## 6. Remote-Support Actions Completed
+
+For this simulated investigation:
+
+- Organized the customer complaint.
+- Prepared equipment and operating-condition questions.
+- Identified missing documentation.
+- Separated reported observations from assumptions.
+- Prepared a customer information request.
+- Documented safety and escalation boundaries.
+
+No physical inspection, equipment adjustment, or diagnostic
+testing was performed as part of this portfolio exercise.
+
+## 7. Working Hypotheses
+
+The following remain unconfirmed:
+
+1. A change in the load or driven mechanism.
+2. An unintended fluid-flow path within the circuit.
+3. Hydraulic supply not meeting the operating requirement.
+4. A maintenance-related configuration change.
+5. An unreliable pressure indication.
+
+The available evidence is insufficient to rank these
+possibilities confidently.
+
+## 8. Missing Information
+
+- Equipment model and serial number
+- Applicable hydraulic circuit drawing
 - Component specifications
-- Maintenance work order
+- Detailed maintenance work order
 - Verified load and operating conditions
+- Pressure measurement location and recorded values
 - Instrument verification
-- Approved diagnostic results
+- Manufacturer-approved diagnostic results
 
-## Assessment
+## 9. Actions Not Authorized by This Review
 
-The evidence does not currently support identifying a
-specific failed component.
-
-Possible investigation areas include load conditions,
-circuit configuration, hydraulic supply, and measurement
-reliability.
-
-## Actions Not Recommended
+This remote review does not authorize:
 
 - Speculative component replacement
-- Pressure-setting adjustments
-- Unapproved isolation or bypass testing
+- Relief-pressure adjustment
+- Hydraulic line disconnection
+- Bypassing guards or interlocks
+- Unapproved circuit-isolation testing
+- Energized electrical work
 
-## Engineering Assistance Requested
+Any hands-on work requires appropriately qualified personnel,
+manufacturer instructions, and applicable site procedures.
 
-1. Identify the applicable diagnostic procedure.
-2. Confirm required measurements and authorized test points.
-3. Review maintenance-related configuration questions.
-4. Review findings before a component-specific recommendation.
+## 10. Engineering Assistance Requested
 
-## Closure Requirements
+Please:
 
-Document the supported cause, authorized corrective action,
-verification results, and customer confirmation.
+1. Identify the applicable manufacturer diagnostic procedure.
+2. Confirm what documentation is needed before testing.
+3. Identify required measurements and authorized test points.
+4. Review the recent maintenance scope and configuration.
+5. Determine whether authorized on-site service is required.
+6. Review the resulting evidence before recommending repairs.
+
+## 11. Recommended Case Disposition
+
+Keep the case open pending documentation and technical
+
