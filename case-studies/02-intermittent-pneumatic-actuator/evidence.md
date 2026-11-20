@@ -3,7 +3,8 @@
 
 **Case Reference:** SIM-PNEU-002  
 **System:** Automated Pneumatic Actuator  
-**Case Status:** Open — Awaiting Technical Evidence  
+**Documentation Status:** Complete — Evidence Assessment Prepared  
+**Technical Case Status:** Open — Engineering Review Pending  
 **Scenario Type:** Fictional Educational Simulation  
 **Evidence Classification:** Synthetic and Unverified  
 **Root Cause:** Not Established
@@ -24,7 +25,11 @@ The technical-support objectives are to:
 - Evaluate possible pneumatic, mechanical, electrical, and instrumentation explanations.
 - Establish the information required for engineering review.
 
-No physical inspection, testing, or corrective action has been performed.
+The evidence assessment has been prepared as part of a completed four-document portfolio package.
+
+No physical inspection, diagnostic testing, or corrective action has been performed.
+
+---
 
 ## 2. Equipment Information
 
@@ -46,6 +51,8 @@ No physical inspection, testing, or corrective action has been performed.
 
 No manufacturer-specific operating limits, component ratings, or controller settings are assumed.
 
+---
+
 ## 3. Customer-Reported Symptoms
 
 The fictional customer reports:
@@ -60,6 +67,8 @@ No verified PLC event records, cycle-time measurements, pressure measurements, o
 
 These statements are unverified customer reports.
 
+---
+
 ## 4. Evidence Register
 
 | ID | Reported Evidence | Source | Verification Status |
@@ -72,6 +81,8 @@ These statements are unverified customer reports.
 | P06 | No confirmed diagnostic records supplied | Case intake | Technical cause undetermined |
 
 **Evidence assessment:** The reported symptoms establish an intermittent operating concern but do not identify the underlying failure mechanism.
+
+---
 
 ## 5. Customer Intake Questions
 
@@ -114,6 +125,8 @@ These statements are unverified customer reports.
 - Is the maintenance work order available?
 - Was successful operation documented after maintenance?
 
+---
+
 ## 6. Technical Hypothesis Assessment
 
 The following hypotheses are possible explanations, not confirmed diagnoses.
@@ -129,6 +142,8 @@ The following hypotheses are possible explanations, not confirmed diagnoses.
 | Pressure-indication error | Gauge observations may not reflect actual operating conditions | Instrument verification and measurement details |
 
 **Current assessment:** The evidence is insufficient to rank these hypotheses confidently.
+
+---
 
 ## 7. Intermittent-Failure Analysis
 
@@ -150,6 +165,8 @@ The investigation should compare documented normal and abnormal operating cycles
 
 This comparison is a proposed evidence framework, not a record of completed testing.
 
+---
+
 ## 8. Evidence Gaps and Technical Significance
 
 | Missing Information | Technical Significance |
@@ -164,9 +181,11 @@ This comparison is a proposed evidence framework, not a record of completed test
 | Instrument verification | Establishes measurement reliability |
 | Approved diagnostic results | Supports engineering evaluation |
 
+---
+
 ## 9. Preliminary Technical Assessment
 
-The reported intermittent nature of the problem indicates that the actuator does not behave consistently under the described operating conditions.
+The reported intermittent nature of the problem suggests that the actuator does not behave consistently under the described operating conditions.
 
 However, successful operation during some cycles does not establish that the pneumatic supply, valve, actuator, sensors, or control system are functioning correctly during abnormal cycles.
 
@@ -174,9 +193,11 @@ The reported association with increased production activity warrants review, but
 
 Changes in a local pressure indication cannot be interpreted reliably without measurement location, operating conditions, and instrument verification.
 
-The reported failure of the automated sequence may result from actual actuator movement, control logic, feedback behavior, or another unverified condition.
+The reported failure of the automated sequence may involve actual actuator movement, control logic, feedback behavior, or another unverified condition.
 
-No failed component or root cause has been identified.
+**Technical conclusion:** No failed component or root cause has been identified.
+
+---
 
 ## 10. Safety and Diagnostic Boundaries
 
@@ -197,6 +218,8 @@ Compressed-air systems and automated machinery may contain stored energy and pre
 
 All physical inspection, testing, isolation, and repair must be performed by appropriately qualified personnel following manufacturer instructions and applicable site procedures.
 
+---
+
 ## 11. Evidence Required for Engineering Review
 
 The simulated engineering review should request:
@@ -213,6 +236,8 @@ The simulated engineering review should request:
 
 The information should be reviewed for completeness and consistency before recommending component-specific corrective action.
 
+---
+
 ## 12. Current Evidence Disposition
 
 | Assessment Item | Status |
@@ -220,23 +245,36 @@ The information should be reviewed for completeness and consistency before recom
 | Customer symptoms documented | Completed in simulation |
 | Evidence register prepared | Completed in simulation |
 | Technical hypotheses identified | Completed in simulation |
+| Customer information request | Prepared |
+| Engineering escalation handoff | Prepared |
 | Diagnostic information verified | No |
 | Root cause established | No |
 | Corrective action performed | No |
 | Return-to-service verification | No |
-| Engineering review | Pending |
+| Engineering investigation | Pending additional evidence |
 
-**Disposition:** Insufficient evidence for root-cause determination.
+**Documentation disposition:** Evidence assessment complete.
 
-**Next action:** Request additional technical information and prepare the simulated customer response.
+**Technical disposition:** Insufficient evidence for root-cause determination.
 
-The fictional case remains unresolved.
+**Next simulated action:** Obtain the requested technical information and submit any verified findings for engineering review.
+
+The fictional equipment investigation remains unresolved.
+
+---
 
 ## 13. Related Documentation
 
-- [Case Overview](README.md)
-- Customer Communication — `customer-response.md` (planned)
-- Engineering Escalation — `engineering-escalation` (planned)
+All four documents in this case package have been prepared.
+
+| Document | Description | Status |
+|---|---|---|
+| [Case Overview](README.md) | Executive summary and technical reasoning | Complete |
+| [Supporting Evidence](evidence.md) | Evidence register and technical assessment | Complete |
+| [Customer Communication](customer-response.md) | Simulated customer information request | Complete |
+| [Engineering Escalation](engineering-escalation) | Simulated engineering handoff | Complete |
+
+The engineering escalation link uses the existing extensionless filename.
 
 ---
 
