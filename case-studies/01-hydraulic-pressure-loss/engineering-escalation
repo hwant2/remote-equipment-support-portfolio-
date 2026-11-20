@@ -1,3 +1,231 @@
 
+# Case 01 | Engineering Escalation & Technical Handoff
+
+**Case Reference:** SIM-HYD-001  
+**System:** Hydraulic Power Unit and Double-Acting Cylinder  
+**Escalation Type:** Mechanical / Hydraulic Technical Support  
+**Case Status:** Open — Engineering Review Required  
+**Scenario:** Fictional Educational Simulation  
+**Root Cause:** Not Established
+
+[← Return to Case Overview](README.md)
+
+---
+
+## 1. Executive Escalation Summary
+
+This simulated case concerns a hydraulic cylinder that reportedly moves without load but slows and stalls under its usual operating load.
+
+The customer reports that the electric motor continues running and no external leakage is visible from the normal operating position.
+
+The problem reportedly appeared after recent maintenance. A technician also reports an abnormal pressure indication, but instrument accuracy and operating conditions have not been verified.
+
+**Reason for escalation:** The available evidence is insufficient to identify a failed component or recommend a corrective action.
+
+Engineering assistance is requested to identify the applicable manufacturer-approved diagnostic approach, review the available information, and determine what additional evidence is necessary.
+
+No physical troubleshooting or corrective action has been performed as part of this simulation.
+
+## 2. Reported Operational Impact
+
+| Item | Current Information |
+|---|---|
+| Equipment function | Loaded cylinder movement reportedly unavailable |
+| Production impact | Not established |
+| Equipment downtime | Not quantified |
+| Safety status | Requires site assessment |
+| Alternative equipment | Unknown |
+| Return-to-service requirement | Not provided |
+| Customer priority | Pending operational impact assessment |
+
+The reported inability to complete the intended loaded movement may affect equipment availability.
+
+The available information does not support a quantified production-loss or downtime claim.
+
+## 3. Equipment Configuration
+
+The fictional hydraulic system includes:
+
+- Electric motor
+- Hydraulic pump
+- Reservoir and filtration
+- Main pressure-relief valve
+- Directional-control valve
+- Double-acting hydraulic cylinder
+- Installed pressure gauge
+
+The following information remains unavailable:
+
+- Equipment manufacturer and model
+- Hydraulic circuit drawing
+- Component specifications
+- Approved operating limits
+- Maintenance configuration records
+
+No manufacturer-specific pressure settings or component ratings are assumed.
+
+## 4. Evidence Register
+
+| Ref. | Reported Information | Verification Limitation |
+|---|---|---|
+| E01 | Cylinder moves without load | Loaded performance unverified |
+| E02 | Cylinder stalls under usual load | Actual load unverified |
+| E03 | Electric motor continues running | Electrical performance unmeasured |
+| E04 | No visible external leakage | Internal leakage not evaluated |
+| E05 | Symptom followed maintenance | Causation not established |
+| E06 | Abnormal pressure indication | Instrument accuracy and conditions unknown |
+
+These observations are fictional and have not been independently verified.
+
+[Review the complete evidence assessment](evidence.md)
+
+## 5. Preliminary Technical Assessment
+
+The reported symptom pattern indicates that actuator movement is possible under the described unloaded condition, but the system reportedly cannot complete its intended loaded movement.
+
+The available evidence does not establish whether the problem originates from:
+
+- Mechanical load conditions
+- Hydraulic fluid routing
+- Hydraulic supply performance
+- Maintenance-related configuration changes
+- Instrumentation reliability
+
+The continued operation of the electric motor does not independently verify hydraulic pump performance.
+
+The absence of visible external leakage does not rule out internal leakage or other hydraulic performance issues.
+
+The timing of the problem after maintenance warrants review but does not prove that maintenance caused the reported condition.
+
+No specific component failure has been established.
+
+## 6. Working Hypotheses
+
+| Hypothesis | Engineering Consideration | Evidence Required |
+|---|---|---|
+| Changed mechanical load | Actual operating demand may differ from previous conditions | Verified load and operating records |
+| Internal hydraulic flow loss | An unintended fluid path may affect actuator performance | Circuit drawing and authorized diagnostic results |
+| Hydraulic supply deficiency | Available supply may not meet operating requirements | Manufacturer specifications and verified measurements |
+| Maintenance-related change | Recent maintenance may have affected system configuration | Maintenance records and configuration review |
+| Instrumentation error | Reported pressure may not represent actual conditions | Instrument verification and measurement details |
+
+**Assessment:** The hypotheses cannot be confidently ranked using the available evidence.
+
+## 7. Remote Technical-Support Actions Documented
+
+The following activities were completed within the fictional exercise:
+
+1. Organized the reported customer complaint.
+2. Documented equipment and operating information.
+3. Established an evidence register.
+4. Identified missing technical documentation.
+5. Developed preliminary troubleshooting hypotheses.
+6. Prepared a customer information request.
+7. Identified safety and authorization boundaries.
+8. Prepared this engineering escalation.
+
+No physical inspection, diagnostic testing, equipment adjustment, or repair was performed.
+
+## 8. Engineering Assistance Requested
+
+Engineering review is requested to:
+
+1. Identify the applicable manufacturer-approved diagnostic procedure.
+2. Confirm the required hydraulic circuit and component documentation.
+3. Review recent maintenance activities and configuration records.
+4. Identify required measurements and authorized measurement locations.
+5. Evaluate instrument verification requirements.
+6. Determine whether qualified on-site technical assistance is required.
+7. Review any subsequent authorized diagnostic evidence.
+8. Support an evidence-based recommendation when sufficient information becomes available.
+
+This request does not authorize remote personnel to direct unapproved physical testing.
+
+## 9. Safety and Technical Authorization
+
+This simulated technical review is not an operational maintenance procedure.
+
+The escalation does not authorize:
+
+- Hydraulic pressure-setting adjustments
+- Hydraulic line disconnection
+- Bypassing protective devices or interlocks
+- Unapproved circuit-isolation or loaded testing
+- Energized electrical work
+- Speculative component replacement
+- Return-to-service authorization
+
+Any hands-on work must be completed by appropriately qualified personnel using manufacturer instructions and applicable site procedures.
+
+## 10. Information Required Before Further Evaluation
+
+| Required Information | Purpose | Status |
+|---|---|---|
+| Equipment identification | Establish applicable documentation | Pending |
+| Hydraulic circuit drawing | Understand system configuration | Pending |
+| Manufacturer specifications | Establish approved operating criteria | Pending |
+| Maintenance work order | Review recent work | Pending |
+| Verified operating load | Establish actual operating demand | Pending |
+| Pressure observations | Support technical assessment | Pending verification |
+| Instrument verification | Assess measurement reliability | Pending |
+| Approved diagnostic results | Support root-cause evaluation | Not available |
+
+All statuses apply only to this fictional scenario.
+
+## 11. Recommended Case Disposition
+
+**Disposition: Maintain Open Status — Awaiting Additional Evidence**
+
+A component-specific diagnosis or repair recommendation is not supported.
+
+The next simulated support activity is to obtain the requested documentation and submit it for technical review.
+
+The need for authorized on-site service should be determined after reviewing the equipment information, safety requirements, and operational impact.
+
+## 12. Case Closure Requirements
+
+Before the fictional case can be closed as resolved, the record must contain:
+
+1. A diagnosis supported by adequate evidence.
+2. An authorized corrective action.
+3. Documented verification against approved operating criteria.
+4. Customer confirmation.
+5. Updated technical and service records.
+
+These requirements have not been met.
+
+## 13. Final Technical Disposition
+
+| Item | Status |
+|---|---|
+| Customer complaint documented | Completed in simulation |
+| Evidence assessment | Completed in simulation |
+| Customer information request | Prepared |
+| Engineering escalation | Prepared |
+| Root cause confirmed | No |
+| Corrective action completed | No |
+| Return-to-service verification | No |
+| Case closed | No |
+
+**Final status: Unresolved — Engineering Review Pending**
+
+## 14. Supporting Case Documentation
+
+- [Case Overview](README.md)
+- [Supporting Evidence](evidence.md)
+- [Customer Communication](customer-response.md)
+
+---
+
+## Portfolio Disclaimer
+
+This document is a fictional engineering-support handoff developed for professional portfolio demonstration.
+
+All equipment conditions, customer observations, and technical records are simulated.
+
+It does not represent actual professional service work, an approved maintenance procedure, or a verified equipment diagnosis.
+
+No proprietary, customer-specific, employer-specific, controlled, military operational, or classified information is included.
+
 
 
