@@ -90,7 +90,7 @@ from the manufacturer-approved diagnostic procedure.
 
 ## 9. Engineering Escalation
 
-[Read the engineering escalation](engineering-escalation.md)
+[Read the engineering escalation](engineering-escalation)
 
 ## 10. Outcome
 
