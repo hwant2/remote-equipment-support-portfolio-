@@ -1,134 +1,202 @@
-# Supporting Evidence: Hydraulic Pressure Loss
 
-[Back to case overview](README.md)
+# Case 01 | Supporting Evidence & Technical Assessment
 
-Status: Draft
-Scenario: Fictional educational exercise
-Data source: Synthetic observations
+**System:** Hydraulic Power Unit and Double-Acting Cylinder  
+**Case Status:** Open — Awaiting Engineering Review  
+**Scenario Type:** Fictional Educational Simulation  
+**Evidence Classification:** Synthetic and Unverified
 
-## 1. Purpose
+[← Return to Case Overview](README.md)
 
-Document the information available to remote support, identify
-what remains unknown, and support an evidence-based escalation.
+---
 
-No observation in this document confirms a failed component.
+## 1. Evidence Review Objective
 
-## 2. Customer Intake Questions
+This document organizes the available information concerning a hydraulic cylinder that reportedly operates without load but slows and stalls under its usual operating load.
+
+The technical-support objective is to:
+
+- Document reported operating conditions.
+- Separate observations from assumptions.
+- Identify evidence gaps.
+- Evaluate possible technical explanations.
+- Prepare an evidence-based engineering escalation.
+
+No failed component or root cause has been confirmed.
+
+## 2. Equipment Information
+
+| Equipment Attribute | Available Information |
+|---|---|
+| Equipment type | Fictional hydraulic power unit |
+| Actuator | Double-acting hydraulic cylinder |
+| Power source | Electric motor |
+| Hydraulic pump | Type and specifications unknown |
+| Directional-control valve | Configuration unknown |
+| Pressure-relief valve | Setting and specifications unknown |
+| Pressure indication | Installed gauge; accuracy unverified |
+| Hydraulic fluid | Type and condition unknown |
+| Equipment model | Not provided |
+| Serial number | Not provided |
+| Circuit drawing | Not available |
+
+No actual manufacturer specifications, component ratings, or pressure settings have been established.
+
+## 3. Customer-Reported Symptoms
+
+The fictional customer reports:
+
+1. The hydraulic cylinder moves without load.
+2. Movement slows and stops under the usual load.
+3. The electric motor appears to continue running.
+4. No external leakage is visible from the normal operating position.
+5. The symptom appeared after recent maintenance.
+
+A fictional technician also reports an abnormal pressure indication.
+
+The technician's measurement location, operating conditions, and instrument accuracy remain unknown.
+
+## 4. Evidence Register
+
+| ID | Reported Evidence | Source | Verification Status |
+|---|---|---|---|
+| E01 | Cylinder moves unloaded | Customer report | Unverified |
+| E02 | Cylinder stalls under load | Customer report | Unverified |
+| E03 | Motor continues running | Customer report | Unverified |
+| E04 | No visible external leakage | Customer report | Limited visual observation |
+| E05 | Problem appeared after maintenance | Fictional maintenance note | Causation unverified |
+| E06 | Pressure indication differs from normal | Technician report | Instrument and conditions unverified |
+
+**Evidence assessment:** The available information establishes a reported operating problem but does not identify the underlying physical cause.
+
+## 5. Customer Intake Questions
 
 ### Equipment Identification
 
 - What are the equipment model and serial number?
 - Is the hydraulic circuit drawing available?
-- What manufacturer instructions apply?
-- What is the equipment's documented normal operating behavior?
+- What manufacturer documentation applies?
+- What is the documented normal operating behavior?
 
 ### Operating Conditions
 
 - What operation is being attempted?
 - Has the load or application changed?
-- Does the issue affect one movement or several?
-- Does it occur immediately or after the equipment warms up?
-- Is the problem consistent or intermittent?
+- Does the problem affect one movement or multiple functions?
+- Does the symptom occur immediately or after extended operation?
+- Is the problem intermittent or repeatable?
 
 ### Maintenance History
 
-- What maintenance was completed before the issue appeared?
-- Were components replaced or settings changed?
+- What maintenance was completed before the symptom appeared?
+- Were any components replaced?
+- Were equipment configurations changed?
 - Is the maintenance work order available?
-- Was normal operation verified after the work?
+- Was normal operation documented after maintenance?
 
-### Available Evidence
+### Instrumentation and Records
 
-- Are alarms or operating records available?
 - Are pressure and temperature observations recorded?
-- Who collected the observations?
-- Under what operating conditions were they collected?
-- Is an authorized technician available?
+- Where were measurements collected?
+- What were the operating conditions?
+- Is instrument calibration or verification information available?
+- Are alarm histories or operating logs available?
 
-## 3. Synthetic Observations
+## 6. Technical Hypothesis Assessment
 
-The following observations are fictional inputs for this case.
-They are not measurements from actual equipment.
+The following hypotheses are possible explanations, not confirmed diagnoses.
 
-| ID | Observation | Source | Limitation |
-|---|---|---|---|
-| E01 | Cylinder moves unloaded | Customer report | Does not establish normal loaded performance |
-| E02 | Cylinder stalls under the usual load | Customer report | Load has not been independently verified |
-| E03 | Motor appears to continue running | Customer report | Electrical performance has not been measured |
-| E04 | No external leakage is visible from the normal operating position | Customer report | Does not establish the absence of leakage elsewhere |
-| E05 | Symptom appeared after maintenance | Fictional maintenance note | Timing alone does not establish cause |
-| E06 | Pressure indication differs from documented normal behavior | Technician report | Instrument accuracy and test conditions are unverified |
+| Hypothesis | Technical Basis | Missing Evidence |
+|---|---|---|
+| Increased mechanical load | Actual load demand may exceed previous conditions | Verified load and operating records |
+| Internal hydraulic flow loss | An unintended flow path may affect actuator performance | Circuit diagram and authorized diagnostic results |
+| Hydraulic supply deficiency | Supply may not meet operating demand | Pump specifications and verified operating measurements |
+| Maintenance-related configuration change | Recent work may have changed equipment behavior | Maintenance records and configuration verification |
+| Pressure indication error | Instrumentation may not reflect actual system conditions | Instrument verification and measurement details |
 
-## 4. Information Not Yet Available
+**Current assessment:** The available evidence is insufficient to rank these hypotheses confidently.
 
-- Hydraulic circuit drawing
-- Component specifications
-- Detailed maintenance work order
-- Verified operating load
-- Recorded pressure values and measurement location
-- Instrument verification
-- Manufacturer-approved diagnostic results
+## 7. Evidence Gaps and Technical Significance
 
-## 5. Facts, Reports, and Assumptions
+| Missing Information | Why It Matters |
+|---|---|
+| Hydraulic circuit drawing | Establishes component relationships and intended flow paths |
+| Equipment specifications | Defines approved operating limits |
+| Verified operating load | Establishes actual mechanical demand |
+| Maintenance work order | Identifies recent changes |
+| Recorded pressure observations | Provides objective operating evidence |
+| Measurement location | Establishes context for pressure readings |
+| Instrument verification | Supports measurement reliability |
+| Approved diagnostic results | Supports engineering evaluation |
 
-### Available Reports
+## 8. Preliminary Technical Assessment
 
-- The customer reports unloaded movement and loaded stalling.
-- The customer reports that the motor continues running.
-- A fictional maintenance note places maintenance before
-  the reported symptom.
-- A technician reports a change in pressure indication.
+The reported unloaded movement suggests that some actuator movement is possible under the described conditions.
 
-### Unverified Assumptions
+However, this does not establish adequate hydraulic performance under load.
 
-- The current load matches the previous operating load.
-- The pressure indication is accurate.
-- The equipment configuration is unchanged.
-- The recent maintenance caused the problem.
+The continued operation of the electric motor does not independently confirm pump performance.
 
-These assumptions must not be presented as confirmed facts.
+The absence of visible external leakage does not rule out internal leakage or other hydraulic performance problems.
 
-## 6. Evidence Assessment
+The timing of the symptom after maintenance warrants further review but does not establish that maintenance caused the problem.
 
-The available reports describe the symptom but do not establish
-its cause.
+The abnormal pressure indication requires verification before it can support a component-specific conclusion.
 
-The maintenance timing warrants further review, but it does not
-prove that maintenance caused the problem.
+## 9. Safety and Diagnostic Boundaries
 
-A component-specific recommendation is not supported by the
-current evidence.
+This document is an information-gathering record, not an operational maintenance procedure.
 
-## 7. Additional Evidence Requested
+The remote review does not authorize:
 
-1. Equipment identification and applicable documentation.
-2. The hydraulic circuit drawing.
-3. The maintenance work order.
-4. Confirmation of installed component identification.
-5. Verification of the reported load and operating conditions.
-6. Instrument verification.
-7. Results from the applicable manufacturer-approved
-   diagnostic procedure.
+- Hydraulic pressure adjustments
+- Disconnecting hydraulic lines
+- Bypassing protective devices
+- Unapproved loaded testing
+- Energized electrical work
+- Speculative component replacement
 
-## 8. Safety Boundary
+Any physical inspection, testing, isolation, or repair must be performed by appropriately qualified personnel using manufacturer instructions and applicable site procedures.
 
-This document is an information-gathering record, not a
-hands-on testing procedure.
+## 10. Evidence Required for Engineering Review
 
-Any inspection or testing must be performed by appropriately
-qualified personnel using manufacturer instructions and
-applicable site procedures.
+The next technical review should request:
 
-Remote support does not authorize pressure adjustments,
-line disconnection, bypass testing, or energized electrical work.
+1. Equipment identification and manufacturer documentation.
+2. Hydraulic circuit drawing.
+3. Recent maintenance work order.
+4. Verified operating load and conditions.
+5. Recorded instrument observations.
+6. Instrument verification information.
+7. Results from applicable manufacturer-approved diagnostic procedures.
 
-## 9. Current Disposition
+These records should be evaluated before any component-specific corrective action is recommended.
 
-Status: Awaiting documentation and authorized test results.
+## 11. Current Evidence Disposition
 
-Next action: Escalate the available evidence and outstanding
-questions for technical review.
+**Status:** Insufficient evidence for root-cause determination.
 
-## Revision History
+**Decision:** Escalate for engineering review and request additional technical information.
 
-- Initial synthetic evidence record.
+**Confirmed failed component:** None.
+
+**Corrective action performed:** None.
+
+**Return-to-service verification:** Not performed.
+
+The fictional case remains unresolved.
+
+## 12. Related Documentation
+
+- [Case Overview](README.md)
+- [Customer Communication](customer-response.md)
+- [Engineering Escalation](engineering-escalation)
+
+---
+
+## Documentation Disclaimer
+
+All observations and equipment conditions are fictional or synthetic.
+
+This document demonstrates technical-support reasoning, evidence management, and engineering escalation. It does not document actual professional troubleshooting or provide authorization for physical maintenance activities.
+
