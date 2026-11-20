@@ -1,43 +1,73 @@
-# Customer Response
+# Customer Response: Hydraulic Pressure Loss
 
 [Back to case overview](README.md)
 
-Sample communication for a fictional educational scenario.
+Document type: Sample customer-support email
+Scenario: Fictional educational exercise
+Case status: Awaiting additional information
 
 ## Subject
 
 Additional information required: hydraulic cylinder stalls under load
 
-## Message
+## Customer Message
 
 Hello,
 
-Thank you for describing the issue.
+Thank you for explaining the issue.
 
-The reported symptoms do not yet identify a specific failed
-component. We need additional equipment information before
-making a component-specific recommendation.
+Based on your report, the cylinder moves without a load but
+slows and stops when the usual load is applied. You also
+reported that the motor continues running and that the
+problem appeared after recent maintenance.
 
-If the equipment cannot operate safely or as intended, keep it
-out of service and follow your site procedures.
+These observations do not yet identify a specific failed
+component. We need additional information before recommending
+a repair or component replacement.
 
-Please do not adjust pressure settings or disconnect hydraulic
-components as part of this remote review.
+### Information Requested
 
-Please provide:
+Please provide the following, where available:
 
-1. The equipment model and serial number
-2. The hydraulic circuit drawing
-3. The maintenance record for work completed before the issue
-4. Available alarms and operating observations
-5. Confirmation that an authorized technician is available
+1. Equipment model and serial number.
+2. Hydraulic circuit drawing and applicable equipment manual.
+3. Maintenance work order for the work completed before
+   the problem appeared.
+4. Details of any changes to the load or application.
+5. Existing alarms, operating records, and technician observations.
+6. Confirmation that an authorized technician is available
+   to support the investigation.
 
-Any additional testing should follow the manufacturer's
-approved procedure and be performed by appropriately
-qualified personnel.
+Please identify any information that is unavailable rather
+than estimating values.
 
-Once the documentation and findings are available, we can
-review them and determine the appropriate next step.
+### Safety and Next Steps
+
+If the equipment cannot operate safely or as intended, keep
+it out of service and follow your site procedures.
+
+This remote review does not authorize pressure adjustments,
+hydraulic line disconnection, bypassing protective devices,
+or energized electrical work.
+
+Any further inspection or testing must follow the
+manufacturer's instructions and applicable site procedures
+and be performed by appropriately qualified personnel.
+
+Once we receive the available documentation, we will review
+the findings and identify whether additional technical
+evaluation or authorized on-site service is needed.
+
+Please include the case reference in your reply so the
+information can be kept together.
 
 Thank you,
+
 Technical Support
+Simulated Equipment Support Case 01
+
+## Portfolio Note
+
+This message was written for a fictional support scenario.
+It does not represent communication with an actual customer
+or instructions for servicing real equipment.
