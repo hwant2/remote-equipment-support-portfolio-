@@ -3,9 +3,11 @@
 
 **Case Reference:** SIM-PNEU-002  
 **System:** Automated Pneumatic Actuator  
-**Case Status:** Open — Awaiting Customer Information  
+**Documentation Status:** Complete — Simulated Customer Response Prepared  
+**Technical Case Status:** Open — Awaiting Customer Information and Engineering Review  
 **Communication Type:** Simulated Customer Support Email  
-**Scenario Type:** Fictional Educational Simulation
+**Scenario Type:** Fictional Educational Simulation  
+**Root Cause:** Not Established
 
 [← Return to Case Overview](README.md)
 
@@ -24,6 +26,8 @@ The communication is designed to:
 - Establish appropriate safety boundaries.
 - Explain the engineering escalation process.
 - Define clear next steps for technical review.
+
+**Documentation outcome:** A simulated customer response and information request have been prepared.
 
 No actual customer communication occurred.
 
@@ -131,6 +135,8 @@ The simulated response demonstrates the following technical-support communicatio
 | Safety boundaries | Prevents unauthorized troubleshooting |
 | Engineering escalation | Establishes a pathway for specialist review |
 
+The communication requests existing records and qualified technical findings rather than directing unauthorized field troubleshooting.
+
 ---
 
 ## 4. Customer Information Tracking
@@ -152,6 +158,8 @@ These statuses apply only to the fictional case.
 
 No actual customer documentation has been received.
 
+The information request is complete as a portfolio deliverable, but the requested technical evidence remains unavailable.
+
 ---
 
 ## 5. Follow-Up and Escalation Criteria
@@ -167,7 +175,11 @@ Engineering assistance is appropriate when:
 - The need for qualified on-site service must be evaluated.
 - Additional technical findings require engineering review.
 
+The engineering handoff has been prepared as part of the completed documentation package.
+
 The available information does not currently support a component-specific corrective-action recommendation.
+
+[Review the Engineering Escalation and Technical Handoff](engineering-escalation)
 
 ---
 
@@ -175,25 +187,36 @@ The available information does not currently support a component-specific correc
 
 | Communication Item | Status |
 |---|---|
-| Customer response | Prepared in simulation |
-| Information request | Documented |
-| Customer reply received | No |
+| Simulated customer response | Prepared |
+| Technical information request | Documented |
+| Engineering escalation handoff | Prepared |
+| Actual customer email sent | No |
+| Actual customer reply received | No |
 | Additional technical records received | No |
 | Root cause confirmed | No |
 | Corrective action recommended | No |
-| Case closed | No |
+| Case closed as resolved | No |
 
-**Current disposition:** Open — Awaiting Customer Information.
+**Documentation disposition:** Complete — simulated customer communication prepared.
 
-The fictional case remains unresolved.
+**Technical disposition:** Open — awaiting additional information and engineering review.
+
+The fictional equipment investigation remains unresolved.
 
 ---
 
 ## 7. Related Case Documentation
 
-- [Case Overview](README.md)
-- [Supporting Evidence](evidence.md)
-- Engineering Escalation — `engineering-escalation` (planned)
+All four documents have been prepared and are available in the repository.
+
+| Document | Purpose | Documentation Status |
+|---|---|---|
+| [Case Overview](README.md) | Executive summary and technical reasoning | Complete |
+| [Supporting Evidence](evidence.md) | Evidence register and technical assessment | Complete |
+| [Customer Communication](customer-response.md) | Simulated customer information request | Complete |
+| [Engineering Escalation](engineering-escalation) | Simulated engineering handoff | Complete |
+
+The engineering escalation link uses the existing extensionless filename.
 
 ---
 
