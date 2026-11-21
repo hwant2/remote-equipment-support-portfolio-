@@ -181,7 +181,7 @@ These records should be evaluated before any component-specific corrective actio
 
 **Status:** Insufficient evidence for root-cause determination.
 
-**Decision:** Escalate for engineering review and request additional technical information.
+**Simulated Support Decision:** Prepare an engineering escalation and request additional technical information. No actual customer escalation or engineering review has occurred.
 
 **Confirmed failed component:** None.
 
