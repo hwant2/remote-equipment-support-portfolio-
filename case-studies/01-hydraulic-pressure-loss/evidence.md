@@ -145,7 +145,9 @@ The absence of visible external leakage does not rule out internal leakage or ot
 
 The timing of the symptom after maintenance warrants further review but does not establish that maintenance caused the problem.
 
-The abnormal pressure indication requires verification before it can support a component-specific conclusion.
+The reported abnormal pressure indication has not been supported by a measurement record. Its source, location,operating conditions, 
+
+and instrument accuracy remain unverified. It cannot support a component-specific conclusion without additional evidence.
 
 ## 9. Safety and Diagnostic Boundaries
 
