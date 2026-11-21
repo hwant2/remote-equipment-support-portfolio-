@@ -6,7 +6,7 @@
 A technical portfolio demonstrating structured troubleshooting, evidence-based decision-making, customer communication, and engineering escalation for industrial equipment.
 
 **Portfolio Focus:** Remote Equipment Support and Field Service Engineering  
-**Case Studies:** 2  
+**Case Studies:** 3  
 **Technical Domains:** Hydraulics, Pneumatics, Industrial Automation  
 **Portfolio Status:** Active Development
 
@@ -105,8 +105,35 @@ An automated pneumatic actuator experiences intermittent operation, requiring a 
 - [Customer Technical Response](case-studies/02-intermittent-pneumatic-actuator/customer-response.md)
 - [Engineering Escalation](case-studies/02-intermittent-pneumatic-actuator/engineering-escalation)
 
----
+### Case 03 — Motor Will Not Start
 
+**System:** Industrial Hydraulic Power Unit — Electric Motor Drive  
+**Case Reference:** SIM-MOTOR-003  
+**Scenario:** Fictional technical-support simulation  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
+
+**Problem Summary**
+
+A customer reports that the electric motor driving an industrial hydraulic power unit does not start when the normal start command is issued. The equipment reportedly operated during the previous shift, but the available information does not establish whether the problem involves the start request, control system, electrical equipment, motor, or driven machinery.
+
+**Technical Focus**
+
+- Electric motor starting systems.
+- Start commands and control-system behavior.
+- Motor starters and electrical supply considerations.
+- Start permissives and protective functions.
+- Mechanical and hydraulic equipment interactions.
+- Evidence classification and technical uncertainty.
+- Customer communication and engineering escalation.
+
+**Case Documentation**
+
+- [Case 03 Overview](case-studies/03-Motor-will-not-start/README.md)
+- [Supporting Evidence](case-studies/03-Motor-will-not-start/evidence.md)
+- [Customer Technical Response](case-studies/03-Motor-will-not-start/customer-response.md)
+- [Engineering Escalation](case-studies/03-Motor-will-not-start/engineering-escalation.md)
+---
 ## Technical Support Methodology
 
 The case studies follow a consistent technical-support framework.
