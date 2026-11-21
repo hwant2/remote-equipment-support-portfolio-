@@ -1,9 +1,11 @@
 # Case 01: Hydraulic Pressure Drops Under Load
 
-Status: Draft
-Scenario: Fictional educational exercise
-Data source: Synthetic observations
-Outcome: Unresolved — additional evidence required
+**Case Reference:** SIM-HYD-001  
+**Scenario:** Fictional educational simulation  
+**Data Source:** Synthetic customer observations  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
+
 
 ## 1. Customer Complaint
 
@@ -94,10 +96,24 @@ from the manufacturer-approved diagnostic procedure.
 
 ## 10. Outcome
 
-The case remains unresolved.
+The simulated case remains unresolved.
 
-It has been escalated because the available evidence is
-insufficient for a component-specific recommendation.
+An engineering escalation document has been prepared for
+the portfolio. No actual engineering review or customer
+escalation has occurred.
+
+The available evidence remains insufficient for a
+component-specific recommendation.
+
+### Case Documentation
+
+- [Case Overview](README.md)
+- [Supporting Evidence](evidence.md)
+- [Customer Technical Response](customer-response.md)
+- [Engineering Escalation](engineering-escalation)
+
+The documentation package is complete, but the fictional
+equipment issue remains unresolved.
 
 ## 11. Closure Criteria
 
@@ -124,5 +140,7 @@ It does not establish a verified equipment diagnosis.
 
 ## Revision History
 
-- Initial draft.
+## Portfolio Navigation
+
+[Return to Portfolio Homepage](../../README.md)
 
