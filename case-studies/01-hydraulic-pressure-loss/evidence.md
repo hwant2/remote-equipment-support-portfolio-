@@ -67,8 +67,9 @@ The technician's measurement location, operating conditions, and instrument accu
 | E02 | Cylinder stalls under load | Customer report | Unverified |
 | E03 | Motor continues running | Customer report | Unverified |
 | E04 | No visible external leakage | Customer report | Limited visual observation |
-| E05 | Problem appeared after maintenance | Fictional maintenance note | Causation unverified |
-| E06 | Pressure indication differs from normal | Technician report | Instrument and conditions unverified |
+| E05 | Problem appeared after maintenance | Synthetic maintenance-history report; no work order supplied | Timing reported; causation unverified |
+| E06 | Pressure indication differs from normal | Fictional technician report; no measurement record supplied | Instrument, location, and operating conditions unverified |
+
 
 **Evidence assessment:** The available information establishes a reported operating problem but does not identify the underlying physical cause.
 
