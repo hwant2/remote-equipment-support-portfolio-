@@ -138,7 +138,11 @@ Before closing the case, document:
 This fictional case demonstrates a support workflow.
 It does not establish a verified equipment diagnosis.
 
+
 ## Revision History
+
+- Initial draft.
+- Quality review: standardized case reference, documentation status, navigation, and simulated escalation wording.
 
 ## Portfolio Navigation
 
