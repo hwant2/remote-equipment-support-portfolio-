@@ -114,6 +114,20 @@ The reported equipment problem remains unresolved.
 **Documentation Status:** Complete  
 **Technical Status:** Unresolved — Additional Evidence Required
 
+## Closure Criteria
+
+This simulated case must not be described as resolved unless
+its documentation includes an explicitly labeled synthetic
+record of:
+
+- A supported cause established through an appropriate review.
+- Any corrective action authorized through the applicable process.
+- Verification against manufacturer and site acceptance criteria.
+- A documented outcome and remaining limitations.
+
+For the current draft, none of those closure conditions
+has been established. The case remains unresolved.
+
 
 ## Skills Demonstrated
 
