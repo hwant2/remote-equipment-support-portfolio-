@@ -1,6 +1,6 @@
 
 # Case 02 | Intermittent Pneumatic Actuator Operation
-
+**Case Reference:** SIM-PNEU-002
 **Industrial Automation | Pneumatic Systems | Remote Technical Support**
 
 > **Documentation Status:** Complete — Four-Document Case Package  
@@ -214,7 +214,7 @@ The case was prepared for simulated engineering review because the available evi
 
 **Documentation Status:** Complete — Simulated Engineering Handoff Prepared
 
-**Engineering Investigation Status:** Pending Additional Evidence
+**Engineering Investigation Status:** Simulated handoff prepared — No actual engineering review performed
 
 ---
 
@@ -242,7 +242,7 @@ Any physical inspection, testing, isolation, or corrective action must be perfor
 
 ## 10. Case Disposition
 
-**Technical Status: Unresolved — Engineering Review Pending**
+> **Technical Case Status:** Unresolved — Additional Evidence Required
 
 The fictional case remains open because the available information does not support a confirmed diagnosis.
 
@@ -272,18 +272,6 @@ All four case documents are present in the repository.
 | [Supporting Evidence](evidence.md) | Evidence register, intake questions, and technical assessment | Complete |
 | [Customer Communication](customer-response.md) | Simulated customer correspondence and information request | Complete |
 | [Engineering Escalation](engineering-escalation) | Internal technical handoff and engineering review requirements | Complete |
-
-### Documentation Navigation
-
-**Start Here:** [Case Overview](README.md)
-
-**Review the Evidence:** [Supporting Evidence](evidence.md)
-
-**Review Customer Communication:** [Customer Response](customer-response.md)
-
-**Review Engineering Handoff:** [Engineering Escalation](engineering-escalation)
-
-The links use the filenames verified in the repository, including the extensionless engineering escalation document.
 
 ---
 
@@ -345,3 +333,11 @@ No actual employer, customer, military, proprietary, controlled, or classified o
 This material is intended for professional portfolio development and does not constitute an approved maintenance procedure, verified equipment diagnosis, or authorization for physical troubleshooting.
 
 The case demonstrates structured technical reasoning, documentation, communication, and escalation rather than completed professional service work.
+
+
+---
+
+## Portfolio Navigation
+
+[Return to Portfolio Homepage](../../README.md)
+
