@@ -1,6 +1,6 @@
 
 # Case 03: Motor Will Not Start
-
+**Case Reference:** SIM-MOTOR-003
 > **Fictional support simulation**
 >
 > This case uses synthetic customer reports and scenario details to demonstrate technical-support documentation and reasoning.
@@ -100,27 +100,20 @@ The absence of a supplied fault code is not treated as proof that the equipment 
 
 Any hands-on inspection or testing is outside this portfolio exercise and would require appropriately qualified personnel, manufacturer instructions, and applicable site safety procedures.
 
-## Planned Case Documents
 
-This case will use four documents:
+## Case Documentation
 
-1. `README.md` — scenario, scope, and current status.
-2. `evidence.md` — synthetic evidence, limitations, and working hypotheses.
-3. `customer-response.md` — customer-facing acknowledgment and request for additional information.
-4. `engineering-escalation.md` — internal summary and request for qualified technical review.
+The four-document simulated support package is complete.
+The reported equipment problem remains unresolved.
 
-Navigation links to the supporting documents will be added after those files have been created.
+1. [Case Overview](README.md) — scenario, scope, and current status.
+2. [Supporting Evidence](evidence.md) — synthetic evidence, limitations, and working hypotheses.
+3. [Customer Technical Response](customer-response.md) — simulated customer acknowledgment and information request.
+4. [Engineering Escalation](engineering-escalation.md) — internal technical handoff and request for qualified review.
 
-## Closure Criteria
+**Documentation Status:** Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
 
-This simulated case must not be described as resolved unless its documentation includes an explicitly labeled synthetic record of:
-
-- A supported cause established through an appropriate review.
-- Any corrective action authorized through the applicable process.
-- Verification against manufacturer and site acceptance criteria.
-- A documented outcome and remaining limitations.
-
-For the current draft, none of those closure conditions has been established. The case remains unresolved.
 
 ## Skills Demonstrated
 
