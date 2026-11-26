@@ -131,7 +131,7 @@ The simulated customer response demonstrates the following communication princip
 | Instrument verification records | Pending |
 | Authorized diagnostic results | Not available |
 
-These statuses represent the fictional case only.
+These statuses are hypothetical tracking entries for this fictional case. No actual customer request was sent, and no customer records were received.
 
 ## 5. Follow-Up and Escalation Criteria
 
