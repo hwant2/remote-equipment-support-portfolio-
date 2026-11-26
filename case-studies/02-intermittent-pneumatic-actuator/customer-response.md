@@ -158,9 +158,9 @@ The communication requests existing records and qualified technical findings rat
 | Instrument verification records | Pending |
 | Authorized diagnostic results | Not available |
 
-These statuses apply only to the fictional case.
+The information-tracking table represents a hypothetical customer-support workflow. Pending statuses identify outstanding evidence requirements within the fictional scenario, not actual customer obligations or active service requests.
 
-No actual customer documentation has been received.
+No actual customer documentation has been requested or received, and no diagnostic records have been independently verified.
 
 The information request is complete as a portfolio deliverable, but the requested technical evidence remains unavailable.
 
