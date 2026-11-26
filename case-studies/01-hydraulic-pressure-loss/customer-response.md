@@ -159,7 +159,7 @@ The available information does not currently support a component-specific repair
 
 **Case status:** Open — awaiting additional information.
 
-The case remains unresolved and subject to engineering review.
+The fictional case remains unresolved. An engineering escalation document was prepared for the portfolio; no actual engineering review or customer escalation has occurred.
 
 ## 7. Related Case Documents
 
