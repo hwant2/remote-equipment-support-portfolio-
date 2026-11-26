@@ -75,12 +75,13 @@ These statements are unverified customer reports.
 
 | ID | Reported Evidence | Source | Verification Status |
 |---|---|---|---|
-| P01 | Actuator sometimes completes extension | Customer report | Unverified |
-| P02 | Actuator sometimes moves slowly or stops short | Customer report | Unverified |
-| P03 | Symptoms appear more frequently during increased production activity | Customer report | Correlation unverified |
-| P04 | Local air-pressure indication occasionally changes | Operator report | Instrument and conditions unverified |
-| P05 | Automated sequence occasionally fails to complete | Customer report | Controller records unavailable |
-| P06 | No confirmed diagnostic records supplied | Case intake | Technical cause undetermined |
+| P01 | Actuator sometimes completes extension | Simulated customer report | Unverified |
+| P02 | Actuator sometimes moves slowly or stops short | Simulated customer report | Unverified |
+| P03 | Symptoms appear more frequently during increased production activity | Simulated customer report | Correlation unverified |
+| P04 | Local air-pressure indication occasionally changes | Simulated operator report | Instrument and conditions unverified |
+| P05 | Automated sequence occasionally fails to complete | Simulated customer report | Controller records unavailable |
+| P06 | No confirmed diagnostic records supplied | Fictional case intake | Technical cause undetermined |
+
 
 **Evidence assessment:** The reported symptoms establish an intermittent operating concern but do not identify the underlying failure mechanism.
 
