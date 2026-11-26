@@ -196,6 +196,9 @@ The reported association with increased production activity warrants review, but
 
 Changes in a local pressure indication cannot be interpreted reliably without measurement location, operating conditions, and instrument verification.
 
+The reported pressure variation is a synthetic operator observation, not a verified pressure measurement. No measured pressure values, time-series records, or instrument calibration results are available. Therefore, insufficient air supply cannot be established as the root cause.
+
+
 The reported failure of the automated sequence may involve actual actuator movement, control logic, feedback behavior, or another unverified condition.
 
 **Technical conclusion:** No failed component or root cause has been identified.
