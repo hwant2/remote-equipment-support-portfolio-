@@ -34,7 +34,10 @@ No actual customer communication occurred.
 
 ---
 
+
 ## 2. Simulated Customer Email
+
+*Portfolio example only — this email was drafted but not sent to a customer.*
 
 **Subject: Technical Support Follow-Up — Intermittent Pneumatic Actuator Operation**
 
