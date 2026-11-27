@@ -310,9 +310,21 @@ Without this information, the relationship between
 the reported symptom and any specific component
 remains unknown.
 
-The investigation should not be narrowed solely
-because one indicator reportedly appears illuminated
-or no alarm code has been supplied.
+
+### Instrumentation and Indicator Limitations
+
+The reported illuminated control-panel indicator (R-03) does not establish that the motor has electrical power, that a start command has been accepted, or that all required operating permissives are satisfied.
+
+The indicator's identity, intended function, associated control signal, and actual operating state remain unverified.
+
+The absence of supplied alarm text or fault codes (R-05) does not establish that no fault, protective condition, or start inhibition exists.
+
+Reliable interpretation requires applicable manufacturer documentation, control-system drawings, existing event records, and authorized technical findings.
+
+No electrical measurements, instrument verification, or control-system diagnostic tests have been performed within this fictional scenario.
+
+The investigation must remain open to electrical, control-system, motor, and mechanical hypotheses until sufficient evidence becomes available.
+
 
 ## 10. Remote-Support Safety Boundaries
 
