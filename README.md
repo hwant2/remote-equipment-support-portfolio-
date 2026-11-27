@@ -303,8 +303,6 @@ remote-equipment-support-portfolio-/
 
 All three case packages are complete as portfolio documentation. The underlying fictional technical problems remain unresolved.
 
-```
-
 ## Documentation and Safety Disclaimer
 
 All technical-support case studies in this repository are fictional educational simulations unless explicitly identified otherwise.
