@@ -38,6 +38,8 @@ starter, control system, or hydraulic pump has failed.
 
 ## 2. Simulated Customer Communication
 
+*The following email is a fictional technical-support communication prepared for professional portfolio demonstration. It has not been sent to an actual customer, and no customer response has been received.*
+
 **Subject:** Technical Support Follow-Up — Hydraulic Power Unit Motor No-Start | SIM-MOTOR-003
 
 Dear Customer,
