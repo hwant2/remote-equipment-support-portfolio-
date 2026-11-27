@@ -2,11 +2,15 @@
 # Case 03 | Customer Technical Support Communication
 
 **Case Reference:** SIM-MOTOR-003  
-**Equipment:** Industrial Hydraulic Power Unit — Electric Motor Drive  
+**System:** Industrial Hydraulic Power Unit — Electric Motor Drive  
 **Scenario:** Motor Will Not Start  
-**Scenario Type:** Fictional Technical-Support Simulation  
-**Documentation Status:** Draft — Simulated Customer Response Prepared  
-**Technical Status:** Unresolved — Additional Evidence Required
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required  
+**Scenario Type:** Fictional Educational Simulation  
+**Communication Status:** Prepared for Simulation — Not Sent  
+**Root Cause:** Not Established  
+**Corrective Action:** Not Performed
+
 
 > **Simulation Disclosure**
 >
