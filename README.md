@@ -250,7 +250,10 @@ This portfolio supports the demonstration of transferable skills relevant to rol
 
 The case studies illustrate a technical-support approach and do not represent verified employment assignments in these roles.
 
+
 ## Portfolio Organization
+
+The repository contains three completed technical case study packages, each organized into four supporting documents.
 
 ```text
 remote-equipment-support-portfolio-/
@@ -265,11 +268,41 @@ remote-equipment-support-portfolio-/
     |   |-- customer-response.md
     |   `-- engineering-escalation
     |
-    `-- 02-intermittent-pneumatic-actuator/
+    |-- 02-intermittent-pneumatic-actuator/
+    |   |-- README.md
+    |   |-- evidence.md
+    |   |-- customer-response.md
+    |   `-- engineering-escalation
+    |
+    `-- 03-Motor-will-not-start/
         |-- README.md
         |-- evidence.md
         |-- customer-response.md
-        `-- engineering-escalation
+        `-- engineering-escalation.md
+```
+
+### Standard Case Documentation Framework
+
+| Document | Purpose |
+|---|---|
+| Case Overview | Executive summary, reported symptoms, technical assessment, and closure requirements |
+| Supporting Evidence | Evidence classification, technical hypotheses, information gaps, and assessment limitations |
+| Customer Communication | Simulated customer correspondence, information requests, and proposed follow-up |
+| Engineering Escalation | Proposed engineering assistance, technical handoff, safety boundaries, and final disposition |
+
+### Current Documentation Inventory
+
+| Category | Quantity |
+|---|---:|
+| Portfolio Homepage | 1 |
+| Case Overviews | 3 |
+| Supporting Evidence Documents | 3 |
+| Customer Communication Documents | 3 |
+| Engineering Escalation Documents | 3 |
+| Total Core Portfolio Documents | 13 |
+
+All three case packages are complete as portfolio documentation. The underlying fictional technical problems remain unresolved.
+
 ```
 
 ## Documentation and Safety Disclaimer
