@@ -267,26 +267,37 @@ Requested materials include:
 No additional customer information has been received
 within this simulation.
 
-## 9. Engineering Assistance Requested
 
-A qualified engineering reviewer would be asked to:
+## 9. Proposed Engineering Assistance
 
-1. Identify the applicable manufacturer documentation.
-2. Review the reported symptoms and evidence limitations.
-3. Determine which existing records are most useful.
-4. Clarify the documented start sequence and required
-   operating conditions.
-5. Identify the appropriate engineering discipline
-   or authorized service personnel for further review.
-6. Determine whether additional manufacturer-approved
-   diagnostic information is required.
-7. Establish the approval and safety requirements
-   for any subsequent on-site activities.
-8. Define the evidence required before a technical
-   disposition or return-to-service decision.
+The following objectives define the proposed scope of qualified engineering assistance within this fictional technical-support scenario.
 
-These are requests for guidance, not statements that
-engineering review has occurred.
+| Reference | Proposed Engineering Objective | Expected Deliverable |
+|---|---|---|
+| ENG-01 | Identify applicable manufacturer documentation | Relevant technical reference list |
+| ENG-02 | Review reported symptoms and evidence limitations | Documented preliminary assessment |
+| ENG-03 | Determine which existing records are most useful | Prioritized evidence requirements |
+| ENG-04 | Clarify documented start sequence and required operating conditions | Documented control-system requirements |
+| ENG-05 | Identify the appropriate engineering discipline or authorized service personnel | Recommended technical ownership |
+| ENG-06 | Determine whether additional manufacturer-approved diagnostic information is required | Authorized diagnostic information requirements |
+| ENG-07 | Establish approval and safety requirements for subsequent on-site activities | Documented safety and authorization requirements |
+| ENG-08 | Define evidence required for technical disposition or return-to-service consideration | Technical closure and verification criteria |
+
+### Expected Engineering Review Outcome
+
+A qualified review would be expected to clarify the applicable technical documentation, remaining evidence requirements, appropriate technical ownership, and authorized path for further assessment.
+
+The proposed review does not assume that a root cause can be established from the currently available information.
+
+### Engineering Review Boundaries
+
+- No engineering objective has been completed by an actual engineering reviewer.
+- No technical deliverables or engineering approvals have been received.
+- No equipment testing, component replacement, or corrective action is authorized by this document.
+- Technical disposition remains unresolved pending sufficient evidence and qualified review.
+
+These objectives and expected deliverables are hypothetical. They demonstrate structured engineering coordination rather than completed engineering work.
+
 
 ## 10. Safety and Technical Authorization
 
