@@ -460,10 +460,16 @@ decision is represented.
 The document must not be used as an operational,
 electrical testing, or maintenance procedure.
 
-[Return to Case 03 Overview](README.md)
 
-[Review Supporting Evidence](evidence.md)
+---
 
-[Review Customer Response](customer-response.md)
+## Supporting Case Documentation
+
+| Document | Purpose |
+|---|---|
+| [Case Overview](README.md) | Executive summary and technical assessment |
+| [Supporting Evidence](evidence.md) | Evidence register, technical hypotheses, and information gaps |
+| [Customer Communication](customer-response.md) | Simulated customer correspondence and information tracking |
+| Engineering Escalation (Current Document) | Proposed engineering handoff, technical review requirements, and closure criteria |
 
 [Return to Portfolio Homepage](../../README.md)
