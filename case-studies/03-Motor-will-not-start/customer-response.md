@@ -155,23 +155,39 @@ documented in `evidence.md`.
 The response does not introduce additional customer
 observations or verified technical findings.
 
-## 5. Information Requested
 
-The customer information request focuses on:
+## 5. Customer Information Request Tracking
 
-- Equipment and motor identification.
-- Precise reported start behavior.
-- Existing operator-interface messages.
-- Available alarm and event history.
-- Applicable equipment documentation.
-- Previous operating conditions.
-- Recent maintenance or configuration changes.
-- Existing service and maintenance records.
+The following register demonstrates how a remote technical-support specialist could prioritize and track outstanding customer information within the fictional support workflow.
 
-These are documentation and clarification requests.
+| Request ID | Information Required | Priority | Simulated Status |
+|---|---|---|---|
+| IR-01 | Equipment manufacturer, model, and asset identification | High | Not provided |
+| IR-02 | Electric motor manufacturer and model | High | Not provided |
+| IR-03 | Operating manuals and electrical or control-system drawings | High | Not provided |
+| IR-04 | Exact reported response to the normal start command | High | Incomplete |
+| IR-05 | Clarification of reported motor behavior | High | Not established |
+| IR-06 | Illuminated control-panel indicator identification and meaning | High | Incomplete |
+| IR-07 | Existing alarms, fault codes, and event records | High | Not provided |
+| IR-08 | Last documented normal operating period | Medium | Reported, unverified |
+| IR-09 | Recent maintenance, shutdowns, power interruptions, or configuration changes | Medium | Not provided |
+| IR-10 | Existing maintenance records and service notes | Medium | Not provided |
+| IR-11 | Similar reported symptoms on related equipment | Medium | Not established |
 
-They are not instructions to operate, inspect,
-energize, or troubleshoot equipment.
+### Information Management Boundaries
+
+- Request only existing records and authorized documentation.
+- Distinguish customer-reported information from verified technical findings.
+- Maintain traceability between information requests and supporting evidence.
+- Review evidence completeness before proposing further technical assessment.
+- Retain unresolved status until applicable closure requirements are satisfied.
+
+Priority classifications represent proposed information-gathering priorities, not authorization to perform equipment testing.
+
+These are documentation and clarification requests. They are not instructions to operate, inspect, energize, or troubleshoot equipment.
+
+This register is a hypothetical support-management tool. No actual customer requests have been issued, and no customer responses have been received.
+
 
 ## 6. Technical Statements Deliberately Avoided
 
