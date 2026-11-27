@@ -206,12 +206,14 @@ The simulated response does not claim:
 None of these conclusions is supported by the
 available fictional customer information.
 
+
 ## 7. Escalation and Follow-Up
 
-**Planned support disposition:** Await existing records
-and prepare an internal engineering escalation.
+**Planned Support Disposition:** Obtain outstanding documentation, assess evidence completeness, and prepare a proposed engineering handoff.
 
-The escalation should summarize:
+**Engineering Handoff Status:** Prepared for Simulation — Not Submitted or Reviewed
+
+The proposed escalation should summarize:
 
 1. The reported no-start condition.
 2. The available customer statements.
@@ -221,27 +223,39 @@ The escalation should summarize:
 6. The requested engineering assistance.
 7. The applicable safety and authorization boundaries.
 
-No actual engineering escalation has been submitted.
+### Proposed Follow-Up Workflow
 
-No customer response has been received.
+- Review outstanding information requests.
+- Assess newly supplied information for completeness and relevance.
+- Update the evidence register and technical hypotheses.
+- Identify remaining technical uncertainties.
+- Determine whether qualified engineering assistance is required.
+- Communicate the proposed next steps and unresolved case status.
 
-## 8. Case Status
+This workflow represents a hypothetical support process. No actual customer correspondence, follow-up activity, or engineering escalation has occurred.
 
-**Customer communication:** Draft prepared for simulation.
+## 8. Final Communication and Case Status
 
-**Additional evidence:** Not received.
+| Status Category | Current Disposition |
+|---|---|
+| Documentation | Four-Document Case Package Complete |
+| Customer Communication | Prepared for Simulation — Not Sent |
+| Customer Response | Not Received |
+| Additional Evidence | Not Received |
+| Root Cause | Not Established |
+| Failed Component | Not Identified |
+| Engineering Handoff | Prepared for Simulation — Not Submitted |
+| Engineering Review | Not Performed |
+| Corrective Action | Not Performed |
+| Operational Verification | Not Performed |
+| Return-to-Service Authorization | Not Provided |
+| Technical Status | Unresolved — Additional Evidence Required |
+| Case Closure | Closure Requirements Not Met |
 
-**Confirmed diagnosis:** None.
+Completion of the simulated customer communication does not establish a verified diagnosis, successful repair, engineering approval, or technical case closure.
 
-**Corrective action:** None.
+The case remains unresolved within the fictional educational scenario.
 
-**Engineering review:** Not performed.
-
-**Operational verification:** Not performed.
-
-**Technical disposition:** Unresolved.
-
-The case remains open within the fictional scenario.
 
 ## 9. Skills Demonstrated
 
