@@ -284,8 +284,16 @@ appropriately qualified and authorized personnel,
 applicable manufacturer instructions, and site
 safety procedures.
 
-[Return to Case 03 Overview](README.md)
 
-[Review Supporting Evidence](evidence.md)
+---
+
+## Supporting Case Documentation
+
+| Document | Purpose |
+|---|---|
+| [Case Overview](README.md) | Executive summary and technical assessment |
+| [Supporting Evidence](evidence.md) | Evidence register, technical hypotheses, and information gaps |
+| Customer Communication (Current Document) | Simulated customer correspondence and information tracking |
+| [Engineering Escalation](engineering-escalation.md) | Proposed engineering handoff and technical review requirements |
 
 [Return to Portfolio Homepage](../../README.md)
