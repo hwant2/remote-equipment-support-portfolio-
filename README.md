@@ -303,6 +303,59 @@ remote-equipment-support-portfolio-/
 
 All three case packages are complete as portfolio documentation. The underlying fictional technical problems remain unresolved.
 
+
+---
+
+## Portfolio Development Roadmap
+
+The next phase of portfolio development will expand technical coverage into industrial instrumentation, programmable logic controllers, motor drives, and industrial robotics.
+
+### Planned Case Studies
+
+| Case Reference | Planned Case Study | Technical Focus | Development Status |
+|---|---|---|---|
+| SIM-SENSOR-004 | Intermittent Proximity Sensor Fault | Instrumentation, sensor feedback, signal integrity, and PLC inputs | Planned |
+| SIM-PLC-005 | PLC Sequence Failure | Control logic, input/output relationships, permissives, and sequence interruptions | Planned |
+| SIM-VFD-006 | Variable-Frequency Drive Fault | Motor drives, fault records, operating conditions, and electrical-mechanical interactions | Planned |
+| SIM-ROBOT-007 | Industrial Robot Positioning | Position feedback, encoder systems, coordinate references, and controller information | Planned |
+
+### Planned Technical Enhancements
+
+- Industrial system and functional block diagrams.
+- Synthetic diagnostic datasets and structured evidence analysis.
+- Python-based equipment data analysis.
+- Simulated PLC logic and control-system demonstrations.
+- Low-voltage educational sensor and microcontroller projects.
+- Industrial robotics simulation and positioning analysis.
+- Expanded technical competency mapping.
+- Consistent case documentation and quality verification.
+
+### Development Milestones
+
+- [x] Case 01 — Hydraulic Pressure Drops Under Load.
+- [x] Case 02 — Intermittent Pneumatic Actuator Operation.
+- [x] Case 03 — Motor Will Not Start.
+- [ ] Case 04 — Intermittent Proximity Sensor Fault.
+- [ ] Case 05 — PLC Sequence Failure.
+- [ ] Case 06 — Variable-Frequency Drive Fault.
+- [ ] Case 07 — Industrial Robot Positioning.
+- [ ] Supporting technical demonstrations and analytical projects.
+- [ ] Expanded portfolio quality verification.
+
+### Expansion Target
+
+| Portfolio Metric | Current | Planned Target |
+|---|---:|---:|
+| Completed Case Study Packages | 3 | 7 |
+| Case Study Documents | 12 | 28 |
+| Portfolio Homepage | 1 | 1 |
+| Total Core Portfolio Documents | 13 | 29 |
+
+Planned projects and technical enhancements are development objectives, not completed accomplishments. Future practical demonstrations will distinguish actual experimental results from fictional scenarios and synthetic data.
+
+---
+
+
 ## Documentation and Safety Disclaimer
 
 All technical-support case studies in this repository are fictional educational simulations unless explicitly identified otherwise.
