@@ -54,12 +54,30 @@ This portfolio applies that experience to structured remote-support scenarios.
 
 ## Technical Case Studies
 
+
+All three case studies are completed fictional documentation packages. Each contains a case overview, supporting evidence, simulated customer communication, and proposed engineering escalation.
+
+### Case Study Comparison
+
+| Case | Technical Domain | Reported Problem | Documentation | Technical Status |
+|---|---|---|---|---|
+| [SIM-HYD-001](case-studies/01-hydraulic-pressure-loss/README.md) | Hydraulics | Pressure loss under load | Complete — 4 documents | Unresolved |
+| [SIM-PNEU-002](case-studies/02-intermittent-pneumatic-actuator/README.md) | Pneumatics and automation | Intermittent actuator operation | Complete — 4 documents | Unresolved |
+| [SIM-MOTOR-003](case-studies/03-Motor-will-not-start/README.md) | Electrical and mechanical systems | Motor no-start condition | Complete — 4 documents | Unresolved |
+
+All cases require additional evidence before a technical cause can be established. No actual customer correspondence, engineering review, equipment repair, or operational verification has occurred.
+
+---
+
+
 ### Case 01 — Hydraulic Pressure Drops Under Load
 
 **System:** Hydraulic Power Unit and Double-Acting Cylinder  
 **Case Reference:** SIM-HYD-001  
-**Scenario:** Fictional educational simulation  
+**Scenario:** Fictional Educational Simulation  
+**Documentation Status:** Four-Document Case Package Complete  
 **Technical Status:** Unresolved — Additional Evidence Required
+
 
 **Problem Summary**
 
@@ -87,9 +105,9 @@ A customer reports that a hydraulic cylinder operates without load but slows or 
 
 **System:** Automated Pneumatic Actuator  
 **Case Reference:** SIM-PNEU-002  
-**Scenario:** Fictional technical-support simulation  
+**Scenario:** Fictional Educational Simulation  
 **Documentation Status:** Four-Document Case Package Complete  
-**Technical Status:** Open — Engineering Review Pending
+**Technical Status:** Unresolved — Additional Evidence Required
 
 **Problem Summary**
 
