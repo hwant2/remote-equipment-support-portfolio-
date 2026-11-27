@@ -455,6 +455,16 @@ repaired, or returned to service.
 The document is not an authorized maintenance,
 electrical testing, or operating procedure.
 
-[Return to Case 03 Overview](README.md)
+
+---
+
+## Supporting Case Documentation
+
+| Document | Purpose |
+|---|---|
+| [Case Overview](README.md) | Executive summary and technical assessment |
+| Supporting Evidence (Current Document) | Evidence register, hypotheses, and technical uncertainty |
+| [Customer Communication](customer-response.md) | Simulated customer correspondence and information requests |
+| [Engineering Escalation](engineering-escalation.md) | Proposed engineering handoff and decision framework |
 
 [Return to Portfolio Homepage](../../README.md)
