@@ -2,12 +2,17 @@
 # Case 03 | Engineering Escalation & Technical Handoff
 
 **Case Reference:** SIM-MOTOR-003  
-**Equipment:** Industrial Hydraulic Power Unit — Electric Motor Drive  
+**System:** Industrial Hydraulic Power Unit — Electric Motor Drive  
 **Reported Issue:** Motor Will Not Start  
-**Scenario Type:** Fictional Technical-Support Simulation  
-**Documentation Status:** Draft — Simulated Engineering Handoff Prepared  
-**Technical Status:** Unresolved — Engineering Review Not Performed  
-**Escalation Priority:** Not assigned; operational impact and site priority are unverified
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required  
+**Scenario Type:** Fictional Educational Simulation  
+**Engineering Handoff Status:** Prepared for Simulation — Not Submitted or Reviewed  
+**Evidence Classification:** Synthetic and Unverified  
+**Escalation Priority:** Not Assigned — Operational Impact and Site Priority Unverified  
+**Root Cause:** Not Established  
+**Corrective Action:** Not Performed
+
 
 > **Simulation and Safety Disclosure**
 >
