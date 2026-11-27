@@ -195,18 +195,46 @@ A completed documentation package does not establish that the underlying equipme
 
 ---
 
+
 ## Competencies Demonstrated
 
-| Competency | Portfolio Application |
-|---|---|
-| Mechanical Troubleshooting | Hydraulic and pneumatic equipment scenarios |
-| Technical Analysis | Evidence review and troubleshooting hypotheses |
-| Industrial Automation | PLC, sensors, solenoids, and actuator interactions |
-| Customer Support | Professional technical responses |
-| Engineering Coordination | Structured escalation and technical handoffs |
-| Documentation | Organized case files and traceable reasoning |
-| Safety Awareness | Recognition of authorization and testing boundaries |
-| Problem Solving | Systematic investigation of unresolved problems |
+The following competency matrix identifies the technical reasoning and professional support skills demonstrated through the completed fictional case study packages.
+
+### Technical Competency Matrix
+
+| Competency | Portfolio Application | Supporting Cases |
+|---|---|---|
+| Mechanical Troubleshooting | Hydraulic, pneumatic, and driven-equipment fault assessment | 01, 02, 03 |
+| Hydraulic Systems | Pressure, flow, load response, and internal leakage hypotheses | 01, 03 |
+| Pneumatic Systems | Air supply, regulators, directional-control valves, and actuator behavior | 02 |
+| Electrical Systems | Motor starting, electrical supply, and motor-control equipment considerations | 02, 03 |
+| Industrial Automation | PLC commands, sensors, solenoids, and feedback relationships | 02, 03 |
+| Control-System Reasoning | Start permissives, protective functions, and command-response relationships | 02, 03 |
+| Technical Analysis | Evidence classification, technical hypotheses, and information gaps | 01, 02, 03 |
+| Equipment Reliability Awareness | Operating history, maintenance records, and failure-related information | 01, 02, 03 |
+
+### Professional Support Competency Matrix
+
+| Competency | Portfolio Application | Supporting Cases |
+|---|---|---|
+| Remote Technical Support | Structured assessment of reported equipment problems | 01, 02, 03 |
+| Customer Communication | Professional simulated responses and information requests | 01, 02, 03 |
+| Engineering Coordination | Proposed engineering escalation and technical handoff | 01, 02, 03 |
+| Evidence Management | Traceable evidence registers and information classification | 01, 02, 03 |
+| Technical Documentation | Consistent four-document case study packages | 01, 02, 03 |
+| Safety Awareness | Recognition of testing, intervention, and authorization boundaries | 01, 02, 03 |
+| Problem Solving | Systematic assessment without unsupported diagnoses | 01, 02, 03 |
+| Technical Risk Communication | Clear communication of uncertainty and unresolved conditions | 01, 02, 03 |
+| Case Management | Information tracking, proposed follow-up, and closure requirements | 01, 02, 03 |
+
+### Supporting Case References
+
+- [Case 01 — Hydraulic Pressure Loss](case-studies/01-hydraulic-pressure-loss/README.md)
+- [Case 02 — Intermittent Pneumatic Actuator](case-studies/02-intermittent-pneumatic-actuator/README.md)
+- [Case 03 — Motor Will Not Start](case-studies/03-Motor-will-not-start/README.md)
+
+These competencies reflect technical reasoning and documentation demonstrated through educational simulations. They do not establish manufacturer certification, verified field diagnoses, completed repairs, or independent authorization to perform equipment testing.
+
 
 ## Intended Professional Applications
 
