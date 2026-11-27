@@ -70,11 +70,12 @@ and are not independently verified.
 
 | ID | Reported observation | Evidence classification | Limitation |
 |---|---|---|---|
-| R-01 | Motor does not run after the normal start command | Customer report | Exact start response unknown |
-| R-02 | Equipment operated during the previous shift | Customer report | Operating records unavailable |
-| R-03 | A control-panel indicator appears illuminated | Customer report | Indicator identity and meaning unknown |
-| R-04 | No unusual sound was reported during the attempted start | Customer report | Observation conditions unknown |
-| R-05 | No alarm text or fault code has been supplied | Information gap | Does not establish absence of faults |
+| R-01 | Motor does not run after the normal start command | Synthetic customer report — unverified | Exact start response unknown |
+| R-02 | Equipment operated during the previous shift | Synthetic customer report — unverified | Operating records unavailable |
+| R-03 | A control-panel indicator appears illuminated | Synthetic customer report — unverified | Indicator identity and meaning unknown |
+| R-04 | No unusual sound was reported during the attempted start | Synthetic customer report — unverified | Observation conditions unknown |
+| R-05 | No alarm text or fault code has been supplied | Scenario-defined information gap | Does not establish absence of faults |
+
 
 These statements are sufficient to establish the reported
 complaint for the simulation.
