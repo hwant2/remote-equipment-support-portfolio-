@@ -169,6 +169,160 @@ A customer reports that the electric motor driving an industrial hydraulic power
 
 The case studies follow a consistent technical-support framework.
 
+
+### Case 04 — Intermittent Proximity Sensor Fault
+
+**System:** Automated Industrial Equipment — Inductive Proximity Sensor and PLC Interface  
+**Case Reference:** SIM-SENSOR-004  
+**Scenario:** Fictional Educational Simulation  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
+
+**Problem Summary**
+
+An automated industrial system reportedly experiences intermittent position detection associated with an inductive proximity sensor. The reported condition occasionally interrupts the production sequence, although some operating cycles complete normally.
+
+The available information does not establish whether the condition involves the sensor, target positioning, electrical signal integrity, mechanical repeatability, environmental conditions, or PLC input processing.
+
+**Technical Focus**
+
+- Inductive proximity sensor operating principles.
+- Sensor and target positioning relationships.
+- Electrical signal integrity and instrumentation.
+- PLC input and feedback relationships.
+- Mechanical positioning repeatability.
+- Environmental operating conditions.
+- Diagnostic evidence classification and correlation.
+- Proposed instrumentation and controls engineering escalation.
+
+**Case Documentation**
+
+- [Case 04 Overview](case-studies/04-intermittent-proximity-sensor/README.md)
+- [Supporting Evidence](case-studies/04-intermittent-proximity-sensor/evidence.md)
+- [Customer Technical Response](case-studies/04-intermittent-proximity-sensor/customer-response.md)
+- [Engineering Escalation](case-studies/04-intermittent-proximity-sensor/engineering-escalation.md)
+
+---
+
+### Case 05 — PLC Sequence Failure
+
+**System:** PLC-Controlled Automated Industrial Equipment  
+**Case Reference:** SIM-PLC-005  
+**Scenario:** Fictional Educational Simulation  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
+
+**Problem Summary**
+
+An automated industrial system reportedly begins its normal operating sequence but intermittently fails to advance to a subsequent production step.
+
+Some operating cycles reportedly complete normally. The exact sequence transition, applicable input and output conditions, and associated diagnostic events have not been established.
+
+The available information does not establish a PLC hardware failure, programming error, sensor fault, actuator malfunction, or protective-function deficiency.
+
+**Technical Focus**
+
+- Programmable logic controller operating principles.
+- Digital input and output relationships.
+- Automated production sequence assessment.
+- Command and feedback relationships.
+- Operating permissives and protective functions.
+- Sensor and actuator interactions.
+- Control-system timing and communication considerations.
+- Diagnostic correlation and proposed controls engineering escalation.
+
+**Case Documentation**
+
+- [Case 05 Overview](case-studies/05-plc-sequence-failure/README.md)
+- [Supporting Evidence](case-studies/05-plc-sequence-failure/evidence.md)
+- [Customer Technical Response](case-studies/05-plc-sequence-failure/customer-response.md)
+- [Engineering Escalation](case-studies/05-plc-sequence-failure/engineering-escalation.md)
+
+---
+
+### Case 06 — Variable-Frequency Drive Fault
+
+**System:** Variable-Frequency Drive and Industrial Electric Motor System  
+**Case Reference:** SIM-VFD-006  
+**Scenario:** Fictional Educational Simulation  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
+
+**Problem Summary**
+
+An industrial motor-driven system reportedly experiences intermittent variable-frequency drive faults associated with interruptions in motor operation.
+
+The equipment reportedly operates normally during some periods. The specific drive fault code, electrical operating conditions, motor loading, and environmental circumstances have not been established.
+
+The available information does not establish whether the condition involves the drive, electrical supply, motor, mechanical load, control commands, communication, or protective functions.
+
+**Technical Focus**
+
+- Variable-frequency drive operating principles.
+- Industrial electric motor and drive relationships.
+- Electrical supply and power quality considerations.
+- Theoretical motor synchronous-speed calculations.
+- Mechanical loading and thermal operating conditions.
+- Drive diagnostic records and fault interpretation limitations.
+- Control commands, feedback, and protective functions.
+- Proposed electrical, mechanical, and motor-drive engineering escalation.
+
+**Case Documentation**
+
+- [Case 06 Overview](case-studies/06-vfd-motor-drive-fault/README.md)
+- [Supporting Evidence](case-studies/06-vfd-motor-drive-fault/evidence.md)
+- [Customer Technical Response](case-studies/06-vfd-motor-drive-fault/customer-response.md)
+- [Engineering Escalation](case-studies/06-vfd-motor-drive-fault/engineering-escalation.md)
+
+---
+
+### Case 07 — Industrial Robot Positioning Inconsistency
+
+**System:** Industrial Robotic Manipulator and Automated Production Cell  
+**Case Reference:** SIM-ROBOT-007  
+**Scenario:** Fictional Educational Simulation  
+**Documentation Status:** Four-Document Case Package Complete  
+**Technical Status:** Unresolved — Additional Evidence Required
+
+**Problem Summary**
+
+An industrial robotic manipulator reportedly experiences intermittent positioning inconsistency during an automated production sequence.
+
+Some production cycles reportedly complete normally, while others exhibit an apparent deviation between the intended tooling position and expected workpiece location.
+
+The magnitude, direction, frequency, and operating conditions associated with the reported positioning deviation have not been established.
+
+The available information does not establish a robot controller failure, encoder fault, servo-system fault, mechanical defect, calibration deficiency, or tooling-related cause.
+
+**Technical Focus**
+
+- Industrial robotic system architecture.
+- Servo motor, drive, and position feedback relationships.
+- Encoder and robot-axis feedback concepts.
+- Mechanical joints and transmission relationships.
+- Joint and Cartesian coordinate systems.
+- Forward and inverse kinematics concepts.
+- Tool center point and workpiece reference relationships.
+- Positioning accuracy and repeatability.
+- Theoretical Cartesian position-error calculations.
+- Descriptive statistical interpretation.
+- PLC and robot control-system interactions.
+- Proposed robotics analytical data structure.
+- Multidisciplinary engineering escalation and industrial robot safety awareness.
+
+The mathematical examples are theoretical educational illustrations. The proposed robotics analytical framework represents a future development opportunity rather than a completed robotics simulation, ROS 2 application, kinematic model, or data analytics project.
+
+**Case Documentation**
+
+- [Case 07 Overview](case-studies/07-industrial-robot-positioning/README.md)
+- [Supporting Evidence](case-studies/07-industrial-robot-positioning/evidence.md)
+- [Customer Technical Response](case-studies/07-industrial-robot-positioning/customer-response.md)
+- [Engineering Escalation](case-studies/07-industrial-robot-positioning/engineering-escalation.md)
+
+---
+
+
+
 ### 1. Customer Intake
 
 Document the reported symptoms, operating conditions, equipment configuration, and relevant maintenance history.
