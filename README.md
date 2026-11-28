@@ -75,7 +75,6 @@ All cases require additional evidence before a technical cause can be establishe
 
 ---
 
-
 ### Case 01 — Hydraulic Pressure Drops Under Load
 
 **System:** Hydraulic Power Unit and Double-Acting Cylinder  
@@ -165,9 +164,7 @@ A customer reports that the electric motor driving an industrial hydraulic power
 - [Customer Technical Response](case-studies/03-Motor-will-not-start/customer-response.md)
 - [Engineering Escalation](case-studies/03-Motor-will-not-start/engineering-escalation.md)
 ---
-## Technical Support Methodology
-
-The case studies follow a consistent technical-support framework.
+### 1. Customer Intake
 
 
 ### Case 04 — Intermittent Proximity Sensor Fault
@@ -355,46 +352,79 @@ A completed documentation package does not establish that the underlying equipme
 
 ---
 
-
 ## Competencies Demonstrated
 
-The following competency matrix identifies the technical reasoning and professional support skills demonstrated through the completed fictional case study packages.
+The following competency matrices identify the technical reasoning, analytical concepts, and professional support skills demonstrated through seven completed fictional case study packages.
 
 ### Technical Competency Matrix
 
 | Competency | Portfolio Application | Supporting Cases |
 |---|---|---|
-| Mechanical Troubleshooting | Hydraulic, pneumatic, and driven-equipment fault assessment | 01, 02, 03 |
+| Mechanical Troubleshooting | Hydraulic, pneumatic, driven-equipment, actuator, tooling, and mechanical fault assessment | 01, 02, 03, 04, 05, 06, 07 |
 | Hydraulic Systems | Pressure, flow, load response, and internal leakage hypotheses | 01, 03 |
 | Pneumatic Systems | Air supply, regulators, directional-control valves, and actuator behavior | 02 |
-| Electrical Systems | Motor starting, electrical supply, and motor-control equipment considerations | 02, 03 |
-| Industrial Automation | PLC commands, sensors, solenoids, and feedback relationships | 02, 03 |
-| Control-System Reasoning | Start permissives, protective functions, and command-response relationships | 02, 03 |
-| Technical Analysis | Evidence classification, technical hypotheses, and information gaps | 01, 02, 03 |
-| Equipment Reliability Awareness | Operating history, maintenance records, and failure-related information | 01, 02, 03 |
+| Electrical Systems | Motor starting, electrical supply, signal integrity, motor drives, and servo-system considerations | 02, 03, 04, 05, 06, 07 |
+| Industrial Automation | PLC commands, sensors, solenoids, actuators, production sequences, and robotic feedback relationships | 02, 03, 04, 05, 06, 07 |
+| Control-System Reasoning | Operating permissives, protective functions, and command-response relationships | 02, 03, 04, 05, 06, 07 |
+| Technical Analysis | Evidence classification, technical hypotheses, and information gaps | 01–07 |
+| Equipment Reliability Awareness | Operating history, maintenance records, intermittent symptoms, and failure-related information | 01–07 |
+| Industrial Instrumentation | Sensor operating principles, signal integrity, position detection, and feedback interpretation | 02, 04, 05, 07 |
+| Programmable Logic Controllers | PLC input/output relationships, sequence progression, commands, and feedback | 02, 03, 04, 05, 06, 07 |
+| Variable-Frequency Drives | Motor-drive architecture, diagnostic records, operating conditions, and fault assessment concepts | 06 |
+| Electric Motor Operating Principles | Motor starting, frequency-speed relationships, mechanical loading, and servo motor concepts | 03, 06, 07 |
+| Industrial Robotics | Robot architecture, axis movement, servo drives, encoders, and mechanical transmission relationships | 07 |
+| Motion-Control Concepts | Commanded movement, position feedback, servo control, and mechanical response | 07 |
+| Robot Coordinate Systems | Joint and Cartesian coordinates, reference frames, and tool center point concepts | 07 |
+| Robot Kinematics Awareness | Conceptual forward and inverse kinematic relationships | 07 |
+| Positioning Accuracy and Repeatability | Positioning offsets, consistency, measurement limitations, and theoretical error calculations | 07 |
+| Industrial Communications Awareness | Control-system communication, command and feedback relationships, and diagnostic information requirements | 05, 06, 07 |
+| Engineering Calculations | Theoretical motor synchronous-speed and Cartesian position-error calculations | 06, 07 |
+| Descriptive Statistical Interpretation | Illustrative mean, range, positional offset, and repeatability concepts | 07 |
+| Diagnostic Correlation Planning | Proposed relationships between operating conditions, commands, feedback, and diagnostic events | 04, 05, 06, 07 |
+| Analytical Data Structure Planning | Proposed structured fields for future equipment diagnostic and positioning analysis | 06, 07 |
 
 ### Professional Support Competency Matrix
 
 | Competency | Portfolio Application | Supporting Cases |
 |---|---|---|
-| Remote Technical Support | Structured assessment of reported equipment problems | 01, 02, 03 |
-| Customer Communication | Professional simulated responses and information requests | 01, 02, 03 |
-| Engineering Coordination | Proposed engineering escalation and technical handoff | 01, 02, 03 |
-| Evidence Management | Traceable evidence registers and information classification | 01, 02, 03 |
-| Technical Documentation | Consistent four-document case study packages | 01, 02, 03 |
-| Safety Awareness | Recognition of testing, intervention, and authorization boundaries | 01, 02, 03 |
-| Problem Solving | Systematic assessment without unsupported diagnoses | 01, 02, 03 |
-| Technical Risk Communication | Clear communication of uncertainty and unresolved conditions | 01, 02, 03 |
-| Case Management | Information tracking, proposed follow-up, and closure requirements | 01, 02, 03 |
+| Remote Technical Support | Structured assessment of reported equipment problems | 01–07 |
+| Customer Communication | Professional simulated responses and information requests | 01–07 |
+| Engineering Coordination | Proposed engineering escalation and technical handoff | 01–07 |
+| Evidence Management | Traceable evidence registers and information classification | 01–07 |
+| Technical Documentation | Consistent four-document case study packages | 01–07 |
+| Safety Awareness | Recognition of testing, intervention, and authorization boundaries | 01–07 |
+| Problem Solving | Systematic assessment without unsupported diagnoses | 01–07 |
+| Technical Risk Communication | Clear communication of uncertainty and unresolved conditions | 01–07 |
+| Case Management | Information tracking, proposed follow-up, and closure requirements | 01–07 |
+| Customer Expectation Management | Communication of diagnostic limitations, information requirements, and unresolved technical conditions | 01–07 |
+| Cross-Functional Technical Coordination | Proposed collaboration across mechanical, electrical, instrumentation, controls, and robotics disciplines | 01–07 |
+| Diagnostic Information Management | Organization of reported symptoms, technical records, configuration information, and evidence gaps | 01–07 |
+| Technical Escalation Planning | Definition of proposed engineering objectives and expected technical deliverables | 01–07 |
+| Technical Closure Assessment | Distinction between documentation completion and verified equipment resolution | 01–07 |
 
 ### Supporting Case References
 
 - [Case 01 — Hydraulic Pressure Loss](case-studies/01-hydraulic-pressure-loss/README.md)
 - [Case 02 — Intermittent Pneumatic Actuator](case-studies/02-intermittent-pneumatic-actuator/README.md)
 - [Case 03 — Motor Will Not Start](case-studies/03-Motor-will-not-start/README.md)
+- [Case 04 — Intermittent Proximity Sensor Fault](case-studies/04-intermittent-proximity-sensor/README.md)
+- [Case 05 — PLC Sequence Failure](case-studies/05-plc-sequence-failure/README.md)
+- [Case 06 — Variable-Frequency Drive Fault](case-studies/06-vfd-motor-drive-fault/README.md)
+- [Case 07 — Industrial Robot Positioning Inconsistency](case-studies/07-industrial-robot-positioning/README.md)
 
-These competencies reflect technical reasoning and documentation demonstrated through educational simulations. They do not establish manufacturer certification, verified field diagnoses, completed repairs, or independent authorization to perform equipment testing.
+### Competency Demonstration Boundaries
 
+These competencies reflect technical reasoning, theoretical calculations, analytical planning, and professional documentation demonstrated through educational simulations.
+
+They do not establish manufacturer certification, verified field diagnoses, completed repairs, actual customer engagements, completed engineering investigations, or independent authorization to perform equipment testing.
+
+The motor synchronous-speed calculations, Cartesian position-error calculations, and descriptive statistical examples are theoretical educational illustrations.
+
+Proposed analytical data structures and diagnostic correlation frameworks represent future development opportunities rather than completed equipment data analysis projects.
+
+No actual PLC programming, variable-frequency drive commissioning, robot programming, robot calibration, ROS 2 application, or industrial robotics simulation is represented by these case study packages.
+
+Professional experience and completed educational portfolio activities must remain distinguishable from proposed technical demonstrations and unverified equipment conditions.
 
 ## Intended Professional Applications
 
