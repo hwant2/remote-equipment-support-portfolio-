@@ -7,14 +7,16 @@ A technical portfolio demonstrating structured troubleshooting, evidence-based d
 
 
 **Portfolio Focus:** Remote Technical Support, Industrial Equipment Service, and Field Service Engineering  
-**Completed Case Study Packages:** 3  
-**Case Study Documents:** 12  
-**Technical Domains:** Hydraulics, Pneumatics, Electrical Motor Systems, Industrial Controls, and Automation  
+**Completed Case Study Packages:** 7  
+**Case Study Documents:** 28  
+**Total Core Portfolio Documents:** 29  
+**Technical Domains:** Hydraulics, Pneumatics, Electrical Motor Systems, Industrial Instrumentation, PLC Systems, Automation, Variable-Frequency Drives, and Industrial Robotics  
 **Core Competencies:** Technical Troubleshooting, Evidence Analysis, Customer Communication, Engineering Escalation, and Safety Awareness  
 **Scenario Classification:** Fictional Educational Simulations  
-**Documentation Status:** Three Four-Document Case Packages Complete  
+**Documentation Status:** Seven Four-Document Case Packages Complete  
 **Technical Case Status:** Unresolved — Additional Evidence Required  
-**Portfolio Status:** Active Development
+**Portfolio Status:** Core Case Study Development Complete — Technical Enhancements Planned
+
 
 
 ---
@@ -54,8 +56,7 @@ This portfolio applies that experience to structured remote-support scenarios.
 
 ## Technical Case Studies
 
-
-All three case studies are completed fictional documentation packages. Each contains a case overview, supporting evidence, simulated customer communication, and proposed engineering escalation.
+All seven case studies are completed fictional documentation packages. Each contains a case overview, supporting evidence, simulated customer communication, and proposed engineering escalation.
 
 ### Case Study Comparison
 
@@ -64,6 +65,11 @@ All three case studies are completed fictional documentation packages. Each cont
 | [SIM-HYD-001](case-studies/01-hydraulic-pressure-loss/README.md) | Hydraulics | Pressure loss under load | Complete — 4 documents | Unresolved |
 | [SIM-PNEU-002](case-studies/02-intermittent-pneumatic-actuator/README.md) | Pneumatics and automation | Intermittent actuator operation | Complete — 4 documents | Unresolved |
 | [SIM-MOTOR-003](case-studies/03-Motor-will-not-start/README.md) | Electrical and mechanical systems | Motor no-start condition | Complete — 4 documents | Unresolved |
+| [SIM-SENSOR-004](case-studies/04-intermittent-proximity-sensor/README.md) | Industrial instrumentation and controls | Intermittent position detection | Complete — 4 documents | Unresolved |
+| [SIM-PLC-005](case-studies/05-plc-sequence-failure/README.md) | PLC systems and automation | Intermittent sequence interruption | Complete — 4 documents | Unresolved |
+| [SIM-VFD-006](case-studies/06-vfd-motor-drive-fault/README.md) | Electrical motor drives | Intermittent drive fault and motor interruption | Complete — 4 documents | Unresolved |
+| [SIM-ROBOT-007](case-studies/07-industrial-robot-positioning/README.md) | Industrial robotics and motion control | Intermittent positioning inconsistency | Complete — 4 documents | Unresolved |
+
 
 All cases require additional evidence before a technical cause can be established. No actual customer correspondence, engineering review, equipment repair, or operational verification has occurred.
 
