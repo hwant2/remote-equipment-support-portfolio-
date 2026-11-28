@@ -165,13 +165,6 @@ A customer reports that the electric motor driving an industrial hydraulic power
 - [Engineering Escalation](case-studies/03-Motor-will-not-start/engineering-escalation.md)
 ---
 
-## Technical Support Methodology
-
-The case studies follow a consistent technical-support framework.
-
-### 1. Customer Intake
-
-
 ### Case 04 — Intermittent Proximity Sensor Fault
 
 **System:** Automated Industrial Equipment — Inductive Proximity Sensor and PLC Interface  
@@ -325,9 +318,15 @@ The mathematical examples are theoretical educational illustrations. The propose
 
 
 
+
+## Technical Support Methodology
+
+The case studies follow a consistent technical-support framework.
+
 ### 1. Customer Intake
 
 Document the reported symptoms, operating conditions, equipment configuration, and relevant maintenance history.
+
 
 ### 2. Evidence Review
 
